@@ -76,4 +76,5 @@ Body:
 
 H2 database:
 
+http://localhost:8080/h2-console
 SELECT * FROM PUBLIC.ACCOUNTS; to see all tables
