@@ -78,3 +78,70 @@ H2 database:
 
 http://localhost:8080/h2-console
 SELECT * FROM PUBLIC.ACCOUNTS; to see all tables
+==================================================================================================================
+Spring Boot - for web applications with Java. 
+
+1. Making project, can go to spring initailizr https://start.spring.io
+Choosing: 
+        Maven, Java, Spring Boot version, 
+        Project metadata: com.example, Artifact:Banking, Name:Banking, Package name: com.example.Banking
+        Packaging:Jar (can run on any system with Java installed)
+        Java:21
+Dependencies:
+        (Spring web) MVC - Rest API - Tomcat server - accept JSON, send JSON (get, post)
+        (Spring Data JDBC --> later can use JPA) 
+        (h2? ) 
+
+Ideas from other people project presentations:
+config
+	security
+	util
+controllers
+	controller exception dvice
+	api controller
+	login controller
+	registration controller
+	user controller
+dto
+     	change card balance dto??
+	create api dto
+	create user dto
+	login user dto
+ 	maininfouser dto
+	transaction dto
+entities
+	card
+	user
+	bank account
+	transaction
+exceptions
+	cardnotfound
+	notenoughfunds
+	useralreadyexists
+model
+	errordetail
+	role
+services
+	card service
+	jwt service
+	transaction service
+	user service
+	bank account service
+utility
+	generator utils
+	application
+repository
+	bank account rep
+	transaction rep
+security
+	custom user detail service
+	autherntfication success handler
+	web security config
+
+Extra questions or ideas:
+    protect vs sql injection? does spring boot does?
+    swagger ui
+    junit tests
+    logger
+    db changelog?
+    templates? or swagger = swagger
