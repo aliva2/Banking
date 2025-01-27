@@ -1,0 +1,1346 @@
+2025-01-24 13:31:42 - Starting BankingApplication using Java 21.0.3 with PID 18600 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-24 13:31:42 - No active profile set, falling back to 1 default profile: "default"
+2025-01-24 13:31:43 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-24 13:31:43 - Finished Spring Data repository scanning in 17 ms. Found 0 JDBC repository interfaces.
+2025-01-24 13:31:44 - Tomcat initialized with port 8080 (http)
+2025-01-24 13:31:44 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-24 13:31:44 - Starting service [Tomcat]
+2025-01-24 13:31:44 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24 13:31:44 - Initializing Spring embedded WebApplicationContext
+2025-01-24 13:31:44 - Root WebApplicationContext: initialization completed in 1442 ms
+2025-01-24 13:31:44 - HikariPool-1 - Starting...
+2025-01-24 13:31:49 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-24 13:31:49 - HikariPool-1 - Start completed.
+2025-01-24 13:31:49 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-24 13:31:49 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-24 13:31:49 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-24 13:31:49 - Started BankingApplication in 7.681 seconds (process running for 8.43)
+2025-01-24 13:32:00 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24 13:32:00 - Initializing Servlet 'dispatcherServlet'
+2025-01-24 13:32:00 - Completed initialization in 1 ms
+2025-01-24 13:36:21 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-24 13:36:21 - Graceful shutdown complete
+2025-01-24 13:36:21 - HikariPool-1 - Shutdown initiated...
+2025-01-24 13:36:21 - HikariPool-1 - Shutdown completed.
+2025-01-24 13:36:25 - Starting BankingApplication using Java 21.0.3 with PID 18408 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-24 13:36:25 - No active profile set, falling back to 1 default profile: "default"
+2025-01-24 13:36:26 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-24 13:36:26 - Finished Spring Data repository scanning in 19 ms. Found 0 JDBC repository interfaces.
+2025-01-24 13:36:26 - Tomcat initialized with port 8080 (http)
+2025-01-24 13:36:26 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-24 13:36:26 - Starting service [Tomcat]
+2025-01-24 13:36:26 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24 13:36:27 - Initializing Spring embedded WebApplicationContext
+2025-01-24 13:36:27 - Root WebApplicationContext: initialization completed in 1450 ms
+2025-01-24 13:36:27 - HikariPool-1 - Starting...
+2025-01-24 13:36:32 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-24 13:36:32 - HikariPool-1 - Start completed.
+2025-01-24 13:36:32 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-24 13:36:32 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-24 13:36:32 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-24 13:36:32 - Started BankingApplication in 7.713 seconds (process running for 8.393)
+2025-01-24 13:36:46 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24 13:36:46 - Initializing Servlet 'dispatcherServlet'
+2025-01-24 13:36:46 - Completed initialization in 2 ms
+2025-01-24 13:47:29 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-24 13:47:29 - Graceful shutdown complete
+2025-01-24 13:47:29 - HikariPool-1 - Shutdown initiated...
+2025-01-24 13:47:29 - HikariPool-1 - Shutdown completed.
+2025-01-24 13:47:34 - Starting BankingApplication using Java 21.0.3 with PID 16192 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-24 13:47:34 - No active profile set, falling back to 1 default profile: "default"
+2025-01-24 13:47:35 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-24 13:47:35 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-24 13:47:36 - Tomcat initialized with port 8080 (http)
+2025-01-24 13:47:36 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-24 13:47:36 - Starting service [Tomcat]
+2025-01-24 13:47:36 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24 13:47:36 - Initializing Spring embedded WebApplicationContext
+2025-01-24 13:47:36 - Root WebApplicationContext: initialization completed in 1799 ms
+2025-01-24 13:47:36 - HikariPool-1 - Starting...
+2025-01-24 13:47:41 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-24 13:47:41 - HikariPool-1 - Start completed.
+2025-01-24 13:47:42 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-24 13:47:42 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-24 13:47:42 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-24 13:47:42 - Started BankingApplication in 8.293 seconds (process running for 9.339)
+2025-01-24 13:47:42 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24 13:47:42 - Initializing Servlet 'dispatcherServlet'
+2025-01-24 13:47:42 - Completed initialization in 2 ms
+2025-01-24 14:30:39 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-24 14:30:39 - Graceful shutdown complete
+2025-01-24 14:30:39 - HikariPool-1 - Shutdown initiated...
+2025-01-24 14:30:39 - HikariPool-1 - Shutdown completed.
+2025-01-27 08:48:07 - Starting BankingApplication using Java 21.0.3 with PID 18628 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 08:48:07 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 08:48:09 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 08:48:09 - Finished Spring Data repository scanning in 30 ms. Found 0 JDBC repository interfaces.
+2025-01-27 08:48:10 - Tomcat initialized with port 8080 (http)
+2025-01-27 08:48:10 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 08:48:10 - Starting service [Tomcat]
+2025-01-27 08:48:10 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 08:48:10 - Initializing Spring embedded WebApplicationContext
+2025-01-27 08:48:10 - Root WebApplicationContext: initialization completed in 2679 ms
+2025-01-27 08:48:10 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 08:48:11 - HikariPool-1 - Starting...
+2025-01-27 08:48:16 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 08:48:16 - HikariPool-1 - Start completed.
+2025-01-27 08:48:16 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 08:48:16 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 08:48:16 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 08:48:16 - Started BankingApplication in 9.649 seconds (process running for 10.585)
+2025-01-27 08:48:16 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 08:48:16 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 08:48:16 - Completed initialization in 2 ms
+2025-01-27 08:50:02 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 08:50:02 - Graceful shutdown complete
+2025-01-27 08:50:02 - HikariPool-1 - Shutdown initiated...
+2025-01-27 08:50:02 - HikariPool-1 - Shutdown completed.
+2025-01-27 08:50:51 - Starting BankingApplication using Java 21.0.3 with PID 23272 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 08:50:51 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 08:50:52 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 08:50:52 - Finished Spring Data repository scanning in 16 ms. Found 0 JDBC repository interfaces.
+2025-01-27 08:50:53 - Tomcat initialized with port 8080 (http)
+2025-01-27 08:50:53 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 08:50:53 - Starting service [Tomcat]
+2025-01-27 08:50:53 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 08:50:53 - Initializing Spring embedded WebApplicationContext
+2025-01-27 08:50:53 - Root WebApplicationContext: initialization completed in 1433 ms
+2025-01-27 08:50:53 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 08:50:53 - HikariPool-1 - Starting...
+2025-01-27 08:50:58 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 08:50:58 - HikariPool-1 - Start completed.
+2025-01-27 08:50:59 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 08:50:59 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 08:50:59 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 08:50:59 - Started BankingApplication in 7.659 seconds (process running for 8.461)
+2025-01-27 08:50:59 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 08:50:59 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 08:50:59 - Completed initialization in 0 ms
+2025-01-27 08:52:41 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 08:52:41 - Graceful shutdown complete
+2025-01-27 08:52:41 - HikariPool-1 - Shutdown initiated...
+2025-01-27 08:52:41 - HikariPool-1 - Shutdown completed.
+2025-01-27 08:53:01 - Starting BankingApplication using Java 21.0.3 with PID 13900 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 08:53:01 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 08:53:02 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 08:53:02 - Finished Spring Data repository scanning in 17 ms. Found 0 JDBC repository interfaces.
+2025-01-27 08:53:02 - Tomcat initialized with port 8080 (http)
+2025-01-27 08:53:02 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 08:53:02 - Starting service [Tomcat]
+2025-01-27 08:53:02 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 08:53:03 - Initializing Spring embedded WebApplicationContext
+2025-01-27 08:53:03 - Root WebApplicationContext: initialization completed in 1549 ms
+2025-01-27 08:53:03 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 08:53:03 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+2025-01-27 08:53:03 - Stopping service [Tomcat]
+2025-01-27 08:53:03 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-27 08:53:03 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1808)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1122)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1030)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.Banking.BankingApplication.main(BankingApplication.java:10)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:360)
+	at org.springframework.core.MethodIntrospector.selectMethods(MethodIntrospector.java:73)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:280)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1855)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	... 18 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: javax/servlet/http/HttpServletRequest
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 27 common frames omitted
+Caused by: java.lang.ClassNotFoundException: javax.servlet.http.HttpServletRequest
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	... 31 common frames omitted
+2025-01-27 08:54:25 - Starting BankingApplication using Java 21.0.3 with PID 13768 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 08:54:25 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 08:54:26 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 08:54:26 - Finished Spring Data repository scanning in 16 ms. Found 0 JDBC repository interfaces.
+2025-01-27 08:54:27 - Tomcat initialized with port 8080 (http)
+2025-01-27 08:54:27 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 08:54:27 - Starting service [Tomcat]
+2025-01-27 08:54:27 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 08:54:27 - Initializing Spring embedded WebApplicationContext
+2025-01-27 08:54:27 - Root WebApplicationContext: initialization completed in 1468 ms
+2025-01-27 08:54:27 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 08:54:27 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+2025-01-27 08:54:27 - Stopping service [Tomcat]
+2025-01-27 08:54:27 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-27 08:54:27 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1808)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1122)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1030)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.Banking.BankingApplication.main(BankingApplication.java:10)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:360)
+	at org.springframework.core.MethodIntrospector.selectMethods(MethodIntrospector.java:73)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:280)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1855)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	... 18 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: javax/servlet/http/HttpServletRequest
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 27 common frames omitted
+Caused by: java.lang.ClassNotFoundException: javax.servlet.http.HttpServletRequest
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	... 31 common frames omitted
+2025-01-27 08:54:51 - Starting BankingApplication using Java 21.0.3 with PID 8748 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 08:54:51 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 08:54:52 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 08:54:52 - Finished Spring Data repository scanning in 17 ms. Found 0 JDBC repository interfaces.
+2025-01-27 08:54:52 - Tomcat initialized with port 8080 (http)
+2025-01-27 08:54:52 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 08:54:52 - Starting service [Tomcat]
+2025-01-27 08:54:52 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 08:54:53 - Initializing Spring embedded WebApplicationContext
+2025-01-27 08:54:53 - Root WebApplicationContext: initialization completed in 1424 ms
+2025-01-27 08:54:53 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 08:54:53 - HikariPool-1 - Starting...
+2025-01-27 08:54:58 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 08:54:58 - HikariPool-1 - Start completed.
+2025-01-27 08:54:58 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 08:54:58 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 08:54:58 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 08:54:58 - Started BankingApplication in 7.567 seconds (process running for 8.349)
+2025-01-27 08:55:13 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 08:55:13 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 08:55:13 - Completed initialization in 1 ms
+2025-01-27 09:07:19 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 09:07:19 - Graceful shutdown complete
+2025-01-27 09:07:19 - HikariPool-1 - Shutdown initiated...
+2025-01-27 09:07:19 - HikariPool-1 - Shutdown completed.
+2025-01-27 09:08:02 - Starting BankingApplication using Java 21.0.3 with PID 21648 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 09:08:02 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 09:08:03 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 09:08:03 - Finished Spring Data repository scanning in 17 ms. Found 0 JDBC repository interfaces.
+2025-01-27 09:08:04 - Tomcat initialized with port 8080 (http)
+2025-01-27 09:08:04 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:08:04 - Starting service [Tomcat]
+2025-01-27 09:08:04 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 09:08:04 - Initializing Spring embedded WebApplicationContext
+2025-01-27 09:08:04 - Root WebApplicationContext: initialization completed in 1365 ms
+2025-01-27 09:08:04 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 09:08:04 - HikariPool-1 - Starting...
+2025-01-27 09:08:09 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 09:08:09 - HikariPool-1 - Start completed.
+2025-01-27 09:08:09 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 09:08:09 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:08:09 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 09:08:09 - Started BankingApplication in 7.518 seconds (process running for 8.245)
+2025-01-27 09:13:10 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 09:13:10 - Graceful shutdown complete
+2025-01-27 09:13:10 - HikariPool-1 - Shutdown initiated...
+2025-01-27 09:13:10 - HikariPool-1 - Shutdown completed.
+2025-01-27 09:34:41 - Starting BankingApplication using Java 21.0.3 with PID 15064 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 09:34:41 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 09:34:41 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 09:34:41 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-27 09:34:42 - Tomcat initialized with port 8080 (http)
+2025-01-27 09:34:42 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:34:42 - Starting service [Tomcat]
+2025-01-27 09:34:42 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 09:34:42 - Initializing Spring embedded WebApplicationContext
+2025-01-27 09:34:42 - Root WebApplicationContext: initialization completed in 1355 ms
+2025-01-27 09:34:42 - Sample accounts initialized.
+2025-01-27 09:34:42 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 09:34:43 - HikariPool-1 - Starting...
+2025-01-27 09:34:47 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 09:34:47 - HikariPool-1 - Start completed.
+2025-01-27 09:34:48 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 09:34:48 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:34:48 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 09:34:48 - Started BankingApplication in 7.479 seconds (process running for 8.189)
+2025-01-27 09:35:00 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 09:35:00 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 09:35:00 - Completed initialization in 1 ms
+2025-01-27 09:35:11 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 09:35:11 - Graceful shutdown complete
+2025-01-27 09:35:11 - HikariPool-1 - Shutdown initiated...
+2025-01-27 09:35:11 - HikariPool-1 - Shutdown completed.
+2025-01-27 09:35:31 - Starting BankingApplication using Java 21.0.3 with PID 19576 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 09:35:31 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 09:35:32 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 09:35:32 - Finished Spring Data repository scanning in 17 ms. Found 0 JDBC repository interfaces.
+2025-01-27 09:35:33 - Tomcat initialized with port 8080 (http)
+2025-01-27 09:35:33 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:35:33 - Starting service [Tomcat]
+2025-01-27 09:35:33 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 09:35:33 - Initializing Spring embedded WebApplicationContext
+2025-01-27 09:35:33 - Root WebApplicationContext: initialization completed in 1396 ms
+2025-01-27 09:35:33 - Sample accounts initialized.
+2025-01-27 09:35:33 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 09:35:33 - HikariPool-1 - Starting...
+2025-01-27 09:35:38 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 09:35:38 - HikariPool-1 - Start completed.
+2025-01-27 09:35:38 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 09:35:38 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:35:38 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 09:35:38 - Started BankingApplication in 7.589 seconds (process running for 8.234)
+2025-01-27 09:37:25 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 09:37:25 - Graceful shutdown complete
+2025-01-27 09:37:25 - HikariPool-1 - Shutdown initiated...
+2025-01-27 09:37:25 - HikariPool-1 - Shutdown completed.
+2025-01-27 09:37:28 - Starting BankingApplication using Java 21.0.3 with PID 12500 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 09:37:28 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 09:37:29 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 09:37:29 - Finished Spring Data repository scanning in 17 ms. Found 0 JDBC repository interfaces.
+2025-01-27 09:37:29 - Tomcat initialized with port 8080 (http)
+2025-01-27 09:37:29 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:37:29 - Starting service [Tomcat]
+2025-01-27 09:37:29 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 09:37:29 - Initializing Spring embedded WebApplicationContext
+2025-01-27 09:37:29 - Root WebApplicationContext: initialization completed in 1405 ms
+2025-01-27 09:37:29 - Sample accounts initialized.
+2025-01-27 09:37:29 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 09:37:30 - HikariPool-1 - Starting...
+2025-01-27 09:37:35 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 09:37:35 - HikariPool-1 - Start completed.
+2025-01-27 09:37:35 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 09:37:35 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:37:35 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 09:37:35 - Started BankingApplication in 7.548 seconds (process running for 8.163)
+2025-01-27 09:37:53 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 09:37:53 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 09:37:53 - Completed initialization in 1 ms
+2025-01-27 09:39:09 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 09:39:09 - Graceful shutdown complete
+2025-01-27 09:39:09 - HikariPool-1 - Shutdown initiated...
+2025-01-27 09:39:09 - HikariPool-1 - Shutdown completed.
+2025-01-27 09:39:13 - Starting BankingApplication using Java 21.0.3 with PID 11228 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 09:39:13 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 09:39:14 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 09:39:14 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-27 09:39:14 - Tomcat initialized with port 8080 (http)
+2025-01-27 09:39:14 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:39:14 - Starting service [Tomcat]
+2025-01-27 09:39:14 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 09:39:14 - Initializing Spring embedded WebApplicationContext
+2025-01-27 09:39:14 - Root WebApplicationContext: initialization completed in 1367 ms
+2025-01-27 09:39:14 - Sample accounts initialized.
+2025-01-27 09:39:15 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 09:39:15 - HikariPool-1 - Starting...
+2025-01-27 09:39:20 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 09:39:20 - HikariPool-1 - Start completed.
+2025-01-27 09:39:20 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 09:39:20 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:39:20 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 09:39:20 - Started BankingApplication in 7.587 seconds (process running for 8.22)
+2025-01-27 09:39:20 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 09:39:20 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 09:39:20 - Completed initialization in 0 ms
+2025-01-27 09:43:31 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 09:43:31 - Graceful shutdown complete
+2025-01-27 09:43:31 - HikariPool-1 - Shutdown initiated...
+2025-01-27 09:43:31 - HikariPool-1 - Shutdown completed.
+2025-01-27 09:43:35 - Starting BankingApplication using Java 21.0.3 with PID 18556 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 09:43:35 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 09:43:36 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 09:43:36 - Finished Spring Data repository scanning in 16 ms. Found 0 JDBC repository interfaces.
+2025-01-27 09:43:36 - Tomcat initialized with port 8080 (http)
+2025-01-27 09:43:36 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:43:36 - Starting service [Tomcat]
+2025-01-27 09:43:36 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 09:43:36 - Initializing Spring embedded WebApplicationContext
+2025-01-27 09:43:36 - Root WebApplicationContext: initialization completed in 1377 ms
+2025-01-27 09:43:36 - Sample accounts initialized.
+2025-01-27 09:43:37 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 09:43:37 - HikariPool-1 - Starting...
+2025-01-27 09:43:42 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 09:43:42 - HikariPool-1 - Start completed.
+2025-01-27 09:43:42 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 09:43:42 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:43:42 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 09:43:42 - Started BankingApplication in 7.596 seconds (process running for 8.35)
+2025-01-27 09:43:45 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 09:43:45 - Graceful shutdown complete
+2025-01-27 09:43:45 - HikariPool-1 - Shutdown initiated...
+2025-01-27 09:43:45 - HikariPool-1 - Shutdown completed.
+2025-01-27 09:43:48 - Starting BankingApplication using Java 21.0.3 with PID 24332 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 09:43:48 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 09:43:49 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 09:43:49 - Finished Spring Data repository scanning in 15 ms. Found 0 JDBC repository interfaces.
+2025-01-27 09:43:50 - Tomcat initialized with port 8080 (http)
+2025-01-27 09:43:50 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:43:50 - Starting service [Tomcat]
+2025-01-27 09:43:50 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 09:43:50 - Initializing Spring embedded WebApplicationContext
+2025-01-27 09:43:50 - Root WebApplicationContext: initialization completed in 1390 ms
+2025-01-27 09:43:50 - Sample accounts initialized.
+2025-01-27 09:43:50 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 09:43:50 - HikariPool-1 - Starting...
+2025-01-27 09:43:55 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 09:43:55 - HikariPool-1 - Start completed.
+2025-01-27 09:43:55 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 09:43:55 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:43:55 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 09:43:55 - Started BankingApplication in 7.528 seconds (process running for 8.15)
+2025-01-27 09:44:08 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 09:44:08 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 09:44:08 - Completed initialization in 1 ms
+2025-01-27 09:48:01 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 09:48:01 - Graceful shutdown complete
+2025-01-27 09:48:01 - HikariPool-1 - Shutdown initiated...
+2025-01-27 09:48:01 - HikariPool-1 - Shutdown completed.
+2025-01-27 09:48:40 - Starting BankingApplication using Java 21.0.3 with PID 14492 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 09:48:40 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 09:48:40 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 09:48:40 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-27 09:48:41 - Tomcat initialized with port 8080 (http)
+2025-01-27 09:48:41 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:48:41 - Starting service [Tomcat]
+2025-01-27 09:48:41 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 09:48:41 - Initializing Spring embedded WebApplicationContext
+2025-01-27 09:48:41 - Root WebApplicationContext: initialization completed in 1419 ms
+2025-01-27 09:48:41 - Sample accounts initialized.
+2025-01-27 09:48:41 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 09:48:42 - HikariPool-1 - Starting...
+2025-01-27 09:48:46 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 09:48:46 - HikariPool-1 - Start completed.
+2025-01-27 09:48:47 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 09:48:47 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:48:47 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 09:48:47 - Started BankingApplication in 7.564 seconds (process running for 8.281)
+2025-01-27 09:50:51 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 09:50:51 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 09:50:51 - Completed initialization in 1 ms
+2025-01-27 09:51:04 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 09:51:04 - Graceful shutdown complete
+2025-01-27 09:51:04 - HikariPool-1 - Shutdown initiated...
+2025-01-27 09:51:04 - HikariPool-1 - Shutdown completed.
+2025-01-27 09:51:30 - Starting BankingApplication using Java 21.0.3 with PID 16684 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 09:51:30 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 09:51:31 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 09:51:31 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-27 09:51:32 - Tomcat initialized with port 8080 (http)
+2025-01-27 09:51:32 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:51:32 - Starting service [Tomcat]
+2025-01-27 09:51:32 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 09:51:32 - Initializing Spring embedded WebApplicationContext
+2025-01-27 09:51:32 - Root WebApplicationContext: initialization completed in 1370 ms
+2025-01-27 09:51:32 - Sample accounts initialized.
+2025-01-27 09:51:32 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 09:51:32 - HikariPool-1 - Starting...
+2025-01-27 09:51:37 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 09:51:37 - HikariPool-1 - Start completed.
+2025-01-27 09:51:37 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 09:51:37 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:51:37 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 09:51:37 - Started BankingApplication in 7.528 seconds (process running for 8.211)
+2025-01-27 09:52:33 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 09:52:33 - Graceful shutdown complete
+2025-01-27 09:52:33 - HikariPool-1 - Shutdown initiated...
+2025-01-27 09:52:33 - HikariPool-1 - Shutdown completed.
+2025-01-27 09:56:38 - Starting BankingApplication using Java 21.0.3 with PID 23992 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 09:56:38 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 09:56:38 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 09:56:38 - Finished Spring Data repository scanning in 11 ms. Found 0 JDBC repository interfaces.
+2025-01-27 09:56:39 - Tomcat initialized with port 8080 (http)
+2025-01-27 09:56:39 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:56:39 - Starting service [Tomcat]
+2025-01-27 09:56:39 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 09:56:39 - Initializing Spring embedded WebApplicationContext
+2025-01-27 09:56:39 - Root WebApplicationContext: initialization completed in 997 ms
+2025-01-27 09:56:39 - Sample accounts initialized.
+2025-01-27 09:56:39 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 09:56:39 - HikariPool-1 - Starting...
+2025-01-27 09:56:44 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 09:56:44 - HikariPool-1 - Start completed.
+2025-01-27 09:56:44 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 09:56:44 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 09:56:44 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 09:56:44 - Started BankingApplication in 6.808 seconds (process running for 7.252)
+2025-01-27 09:56:49 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 09:56:49 - Graceful shutdown complete
+2025-01-27 09:56:49 - HikariPool-1 - Shutdown initiated...
+2025-01-27 09:56:49 - HikariPool-1 - Shutdown completed.
+2025-01-27 11:55:39 - Starting BankingApplication using Java 21.0.3 with PID 12124 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 11:55:39 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 11:55:40 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 11:55:40 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-27 11:55:40 - Tomcat initialized with port 8080 (http)
+2025-01-27 11:55:40 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 11:55:40 - Starting service [Tomcat]
+2025-01-27 11:55:40 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 11:55:40 - Initializing Spring embedded WebApplicationContext
+2025-01-27 11:55:40 - Root WebApplicationContext: initialization completed in 1498 ms
+2025-01-27 11:55:40 - Sample accounts initialized.
+2025-01-27 11:55:41 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 11:55:41 - HikariPool-1 - Starting...
+2025-01-27 11:55:46 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 11:55:46 - HikariPool-1 - Start completed.
+2025-01-27 11:55:46 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 11:55:46 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 11:55:46 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 11:55:46 - Started BankingApplication in 7.757 seconds (process running for 8.546)
+2025-01-27 11:55:46 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 11:55:46 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 11:55:46 - Completed initialization in 2 ms
+2025-01-27 12:00:54 - Received request to access root.
+2025-01-27 12:01:03 - Received request to list all accounts
+2025-01-27 12:01:18 - Received request to get account info for account: 11111
+2025-01-27 12:07:16 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 12:07:16 - Graceful shutdown complete
+2025-01-27 12:07:16 - HikariPool-1 - Shutdown initiated...
+2025-01-27 12:07:16 - HikariPool-1 - Shutdown completed.
+2025-01-27 12:07:20 - Starting BankingApplication using Java 21.0.3 with PID 1808 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 12:07:20 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 12:07:21 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 12:07:21 - Finished Spring Data repository scanning in 17 ms. Found 0 JDBC repository interfaces.
+2025-01-27 12:07:22 - Tomcat initialized with port 8080 (http)
+2025-01-27 12:07:22 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 12:07:22 - Starting service [Tomcat]
+2025-01-27 12:07:22 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 12:07:22 - Initializing Spring embedded WebApplicationContext
+2025-01-27 12:07:22 - Root WebApplicationContext: initialization completed in 1463 ms
+2025-01-27 12:07:22 - Sample accounts initialized.
+2025-01-27 12:07:22 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 12:07:22 - HikariPool-1 - Starting...
+2025-01-27 12:07:27 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 12:07:27 - HikariPool-1 - Start completed.
+2025-01-27 12:07:27 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 12:07:27 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 12:07:27 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 12:07:27 - Started BankingApplication in 7.654 seconds (process running for 8.775)
+2025-01-27 12:11:55 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 12:11:55 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 12:11:55 - Completed initialization in 1 ms
+2025-01-27 12:20:56 - Received request to list all accounts
+2025-01-27 12:20:59 - Received request to list all accounts
+2025-01-27 12:21:04 - Received request to get account info for account: 11111
+2025-01-27 12:21:10 - Received request to list all accounts
+2025-01-27 12:29:20 - Received request to save accounts to file: test1
+2025-01-27 12:29:20 - Accounts saved successfully to file: test1
+2025-01-27 12:29:37 - Received request to save accounts to file: test2
+2025-01-27 12:29:37 - Accounts saved successfully to file: test2
+2025-01-27 12:31:33 - Received request to access root.
+2025-01-27 12:31:46 - Received request to access root.
+2025-01-27 12:31:52 - Received request to access root.
+2025-01-27 12:32:08 - Received request to access root.
+2025-01-27 12:33:53 - Received request to get account info for account: 11111
+
+2025-01-27 12:33:59 - Received request to get account info for account: 11111
+
+2025-01-27 12:34:06 - Received request to get account info for account: 11111
+2025-01-27 12:34:12 - Received request to get account info for account: 11111
+
+2025-01-27 12:34:30 - Received request to get account info for account: 11111
+
+2025-01-27 12:34:43 - Received request to get account info for account: 11111
+2025-01-27 12:35:00 - Received request to get account info for account: 22222
+2025-01-27 12:35:23 - Received request to get account info for account: {accountNumber}
+
+2025-01-27 12:36:26 - Received request to access root.
+2025-01-27 12:36:31 - Received request to access root.
+2025-01-27 12:37:04 - Received request to list all accounts
+2025-01-27 12:37:29 - Received request to get account info for account: {accountNumber}
+2025-01-27 12:38:26 - Received request to get account info for account: {{accountNumber}}
+2025-01-27 12:42:25 - Received request to access root.
+2025-01-27 12:45:27 - Received request to get account info for account: {{accountNumber}}
+2025-01-27 12:47:40 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target [/banking/transfer?sourceAccountNumber={source}&destinationAccountNumber={destination}&amount={amount} ]. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:481)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-01-27 12:48:41 - Received request to access root.
+2025-01-27 12:48:43 - Received request to list all accounts
+2025-01-27 13:09:08 - Received request to get account info for account: {{accountNumber}}
+2025-01-27 13:17:49 - Received request to access root.
+2025-01-27 13:17:49 - Received request to access root.
+2025-01-27 13:17:49 - Received request to access root.
+2025-01-27 13:17:49 - Received request to access root.
+2025-01-27 13:17:49 - Received request to access root.
+2025-01-27 13:18:52 - Received request to list all accounts
+2025-01-27 13:19:04 - Received request to access root.
+2025-01-27 13:19:04 - Received request to list all accounts
+2025-01-27 13:19:04 - Received request to get account info for account: {{accountNumber}}
+2025-01-27 13:20:24 - Received request to get account info for account: {{accountNumber}}
+2025-01-27 13:20:31 - Received request to get account info for account: {{accountNumber}}
+2025-01-27 13:33:05 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 13:33:05 - Graceful shutdown complete
+2025-01-27 13:33:05 - HikariPool-1 - Shutdown initiated...
+2025-01-27 13:33:05 - HikariPool-1 - Shutdown completed.
+2025-01-27 13:33:12 - Starting BankingApplication using Java 21.0.3 with PID 10592 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 13:33:12 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 13:33:13 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 13:33:13 - Finished Spring Data repository scanning in 22 ms. Found 0 JDBC repository interfaces.
+2025-01-27 13:33:14 - Tomcat initialized with port 8080 (http)
+2025-01-27 13:33:14 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 13:33:14 - Starting service [Tomcat]
+2025-01-27 13:33:14 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 13:33:14 - Initializing Spring embedded WebApplicationContext
+2025-01-27 13:33:14 - Root WebApplicationContext: initialization completed in 2382 ms
+2025-01-27 13:33:14 - Sample accounts initialized.
+2025-01-27 13:33:14 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 13:33:15 - HikariPool-1 - Starting...
+2025-01-27 13:33:20 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 13:33:20 - HikariPool-1 - Start completed.
+2025-01-27 13:33:20 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 13:33:20 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 13:33:20 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 13:33:20 - Started BankingApplication in 9.348 seconds (process running for 10.797)
+2025-01-27 13:33:21 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 13:33:21 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 13:33:21 - Completed initialization in 1 ms
+2025-01-27 13:33:45 - Received request to access root.
+2025-01-27 13:33:49 - Received request to list all accounts
+2025-01-27 13:34:48 - Received request to get account info for account: 44444
+2025-01-27 13:34:52 - Received request to get account info for account: 11111
+2025-01-27 13:34:58 - Received request to get account info for account: 55555
+2025-01-27 13:41:24 - Received request to access root.
+2025-01-27 13:41:38 - Received request to access root.
+2025-01-27 13:41:41 - Received request to list all accounts
+2025-01-27 13:41:45 - Received request to get account info for account: {{accountNumber}}
+2025-01-27 13:42:31 - Received request to get account info for account: 11111
+2025-01-27 13:43:17 - Received request to get account info for account: 11111
+2025-01-27 13:43:29 - Received request to get account info for account: 11111
+2025-01-27 13:43:31 - Received request to get account info for account: 44444
+2025-01-27 13:43:32 - Received request to get account info for account: 44444
+2025-01-27 13:44:23 - Received request to deposit 100.0 into account: 44444
+2025-01-27 13:44:23 - Received request to get account info for account: 44444
+2025-01-27 13:44:23 - Deposited 100.0 to account 44444. New balance: 100.0
+2025-01-27 13:44:23 - Deposit of 100.0 into account 44444 was successful.
+2025-01-27 13:44:37 - Received request to withdraw 100.0 from account: {accountNumber}
+2025-01-27 13:44:37 - Received request to get account info for account: {accountNumber}
+2025-01-27 13:44:37 - Account not found: {accountNumber}
+2025-01-27 13:44:46 - Received request to withdraw 100.0 from account: 44444
+2025-01-27 13:44:46 - Received request to get account info for account: 44444
+2025-01-27 13:44:46 - Withdrew 100.0 from account 44444. Remaining balance: 0.0
+2025-01-27 13:44:46 - Withdrawal of 100.0 from account 44444 was successful.
+2025-01-27 13:45:09 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target [/banking/transfer?sourceAccountNumber={{source}}&destinationAccountNumber={{destination}}&amount=100 ]. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:481)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-01-27 13:45:36 - Received request to transfer 100.0 from account 55555 to account 33333
+2025-01-27 13:45:36 - Received request to get account info for account: 55555
+2025-01-27 13:45:36 - Received request to get account info for account: 33333
+2025-01-27 13:45:36 - Transferred: 100.0 from Account 55555 to Account 33333. Source Balance: 300.0, Destination Balance: 200.0
+2025-01-27 13:45:42 - Received request to transfer 100.0 from account 55555 to account 33333
+2025-01-27 13:45:42 - Received request to get account info for account: 55555
+2025-01-27 13:45:42 - Received request to get account info for account: 33333
+2025-01-27 13:45:42 - Transferred: 100.0 from Account 55555 to Account 33333. Source Balance: 200.0, Destination Balance: 300.0
+2025-01-27 13:45:43 - Received request to transfer 100.0 from account 55555 to account 33333
+2025-01-27 13:45:43 - Received request to get account info for account: 55555
+2025-01-27 13:45:43 - Received request to get account info for account: 33333
+2025-01-27 13:45:43 - Transferred: 100.0 from Account 55555 to Account 33333. Source Balance: 100.0, Destination Balance: 400.0
+2025-01-27 13:45:43 - Received request to transfer 100.0 from account 55555 to account 33333
+2025-01-27 13:45:43 - Received request to get account info for account: 55555
+2025-01-27 13:45:43 - Received request to get account info for account: 33333
+2025-01-27 13:45:43 - Transferred: 100.0 from Account 55555 to Account 33333. Source Balance: 0.0, Destination Balance: 500.0
+2025-01-27 13:45:44 - Received request to transfer 100.0 from account 55555 to account 33333
+2025-01-27 13:45:44 - Received request to get account info for account: 55555
+2025-01-27 13:45:44 - Received request to get account info for account: 33333
+2025-01-27 13:45:44 - Transfer failed. Insufficient funds in source account: 55555
+2025-01-27 13:45:45 - Received request to transfer 100.0 from account 55555 to account 33333
+2025-01-27 13:45:45 - Received request to get account info for account: 55555
+2025-01-27 13:45:45 - Received request to get account info for account: 33333
+2025-01-27 13:45:45 - Transfer failed. Insufficient funds in source account: 55555
+2025-01-27 13:46:15 - Received request to save accounts to file: testFile1
+2025-01-27 13:46:15 - Accounts saved successfully to file: testFile1
+2025-01-27 13:46:17 - Received request to save accounts to file: testFile1
+2025-01-27 13:46:17 - Accounts saved successfully to file: testFile1
+2025-01-27 13:46:26 - Received request to load accounts from file: testFile1
+2025-01-27 13:46:26 - Accounts loaded successfully from file: testFile1
+2025-01-27 13:46:29 - Received request to load accounts from file: testFile1
+2025-01-27 13:46:29 - Accounts loaded successfully from file: testFile1
+2025-01-27 13:47:01 - Received request to access root.
+2025-01-27 13:47:01 - Received request to list all accounts
+2025-01-27 13:47:01 - Received request to get account info for account: 44444
+2025-01-27 13:47:28 - Received request to access root.
+2025-01-27 13:47:28 - Received request to list all accounts
+2025-01-27 13:47:28 - Received request to get account info for account: 44444
+2025-01-27 13:47:43 - Received request to access root.
+2025-01-27 13:47:43 - Received request to list all accounts
+2025-01-27 13:47:43 - Received request to get account info for account: 44444
+2025-01-27 13:48:27 - Received request to access root.
+2025-01-27 13:48:27 - Received request to list all accounts
+2025-01-27 13:48:27 - Received request to get account info for account: 44444
+2025-01-27 13:48:34 - Received request to list all accounts
+2025-01-27 13:48:46 - Received request to list all accounts
+2025-01-27 13:50:16 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 13:50:16 - Graceful shutdown complete
+2025-01-27 13:50:16 - HikariPool-1 - Shutdown initiated...
+2025-01-27 13:50:16 - HikariPool-1 - Shutdown completed.
+2025-01-27 13:50:22 - Starting BankingApplication using Java 21.0.3 with PID 12484 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 13:50:22 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 13:50:23 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 13:50:23 - Finished Spring Data repository scanning in 21 ms. Found 0 JDBC repository interfaces.
+2025-01-27 13:50:24 - Tomcat initialized with port 8080 (http)
+2025-01-27 13:50:24 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 13:50:24 - Starting service [Tomcat]
+2025-01-27 13:50:24 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 13:50:24 - Initializing Spring embedded WebApplicationContext
+2025-01-27 13:50:24 - Root WebApplicationContext: initialization completed in 1751 ms
+2025-01-27 13:50:24 - Sample accounts initialized.
+2025-01-27 13:50:24 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 13:50:25 - HikariPool-1 - Starting...
+2025-01-27 13:50:29 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 13:50:29 - HikariPool-1 - Start completed.
+2025-01-27 13:50:30 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 13:50:30 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 13:50:30 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 13:50:30 - Started BankingApplication in 8.243 seconds (process running for 9.12)
+2025-01-27 13:50:42 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 13:50:42 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 13:50:42 - Completed initialization in 2 ms
+2025-01-27 13:51:38 - Received request to deposit 100.0 into account: 44444
+2025-01-27 13:51:38 - Received request to get account info for account: 44444
+2025-01-27 13:51:38 - Deposited 100.0 to account 44444. New balance: 100.0
+2025-01-27 13:51:38 - Deposit of 100.0 into account 44444 was successful.
+2025-01-27 13:52:00 - Received request to withdraw 100.0 from account: 44444
+2025-01-27 13:52:00 - Received request to get account info for account: 44444
+2025-01-27 13:52:00 - Withdrew 100.0 from account 44444. Remaining balance: 0.0
+2025-01-27 13:52:00 - Withdrawal of 100.0 from account 44444 was successful.
+2025-01-27 13:52:08 - Received request to transfer 100.0 from account 55555 to account 33333
+2025-01-27 13:52:08 - Received request to get account info for account: 55555
+2025-01-27 13:52:08 - Received request to get account info for account: 33333
+2025-01-27 13:52:08 - Transferred: 100.0 from Account 55555 to Account 33333. Source Balance: 300.0, Destination Balance: 200.0
+2025-01-27 13:57:42 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 13:57:42 - Graceful shutdown complete
+2025-01-27 13:57:42 - HikariPool-1 - Shutdown initiated...
+2025-01-27 13:57:42 - HikariPool-1 - Shutdown completed.
+2025-01-27 13:57:48 - Starting BankingApplication using Java 21.0.3 with PID 11908 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 13:57:48 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 13:57:49 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 13:57:49 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-27 13:57:50 - Tomcat initialized with port 8080 (http)
+2025-01-27 13:57:50 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 13:57:50 - Starting service [Tomcat]
+2025-01-27 13:57:50 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 13:57:50 - Initializing Spring embedded WebApplicationContext
+2025-01-27 13:57:50 - Root WebApplicationContext: initialization completed in 2034 ms
+2025-01-27 13:57:50 - Sample accounts initialized.
+2025-01-27 13:57:50 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 13:57:51 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+2025-01-27 13:57:51 - Stopping service [Tomcat]
+2025-01-27 13:57:51 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-27 13:57:51 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1808)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1122)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1030)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.Banking.BankingApplication.main(BankingApplication.java:10)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:360)
+	at org.springframework.core.MethodIntrospector.selectMethods(MethodIntrospector.java:73)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:280)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1855)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	... 18 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: javax/servlet/http/HttpServletRequest
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 27 common frames omitted
+Caused by: java.lang.ClassNotFoundException: javax.servlet.http.HttpServletRequest
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	... 31 common frames omitted
+2025-01-27 13:58:08 - Starting BankingApplication using Java 21.0.3 with PID 24036 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 13:58:08 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 13:58:09 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 13:58:09 - Finished Spring Data repository scanning in 17 ms. Found 0 JDBC repository interfaces.
+2025-01-27 13:58:09 - Tomcat initialized with port 8080 (http)
+2025-01-27 13:58:09 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 13:58:09 - Starting service [Tomcat]
+2025-01-27 13:58:09 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 13:58:10 - Initializing Spring embedded WebApplicationContext
+2025-01-27 13:58:10 - Root WebApplicationContext: initialization completed in 1870 ms
+2025-01-27 13:58:10 - Sample accounts initialized.
+2025-01-27 13:58:10 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 13:58:10 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+2025-01-27 13:58:10 - Stopping service [Tomcat]
+2025-01-27 13:58:10 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-27 13:58:10 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1808)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1122)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1030)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.Banking.BankingApplication.main(BankingApplication.java:10)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springdoc.webmvc.api.OpenApiWebMvcResource] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:360)
+	at org.springframework.core.MethodIntrospector.selectMethods(MethodIntrospector.java:73)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:280)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1855)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	... 18 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: javax/servlet/http/HttpServletRequest
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 27 common frames omitted
+Caused by: java.lang.ClassNotFoundException: javax.servlet.http.HttpServletRequest
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	... 31 common frames omitted
+2025-01-27 13:58:50 - Starting BankingApplication using Java 21.0.3 with PID 22496 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 13:58:50 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 13:58:51 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 13:58:51 - Finished Spring Data repository scanning in 19 ms. Found 0 JDBC repository interfaces.
+2025-01-27 13:58:52 - Tomcat initialized with port 8080 (http)
+2025-01-27 13:58:52 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 13:58:52 - Starting service [Tomcat]
+2025-01-27 13:58:52 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 13:58:52 - Initializing Spring embedded WebApplicationContext
+2025-01-27 13:58:52 - Root WebApplicationContext: initialization completed in 1904 ms
+2025-01-27 13:58:52 - Sample accounts initialized.
+2025-01-27 13:58:52 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 13:58:52 - HikariPool-1 - Starting...
+2025-01-27 13:58:57 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 13:58:57 - HikariPool-1 - Start completed.
+2025-01-27 13:58:57 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 13:58:57 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 13:58:57 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 13:58:57 - Started BankingApplication in 8.325 seconds (process running for 9.138)
+2025-01-27 13:59:47 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 13:59:47 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 13:59:47 - Completed initialization in 2 ms
+2025-01-27 14:04:52 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 14:04:52 - Graceful shutdown complete
+2025-01-27 14:04:52 - HikariPool-1 - Shutdown initiated...
+2025-01-27 14:04:52 - HikariPool-1 - Shutdown completed.
+2025-01-27 14:04:56 - Starting BankingApplication using Java 21.0.3 with PID 7320 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 14:04:56 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 14:04:57 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 14:04:57 - Finished Spring Data repository scanning in 21 ms. Found 0 JDBC repository interfaces.
+2025-01-27 14:04:58 - Tomcat initialized with port 8080 (http)
+2025-01-27 14:04:58 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:04:58 - Starting service [Tomcat]
+2025-01-27 14:04:58 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 14:04:58 - Initializing Spring embedded WebApplicationContext
+2025-01-27 14:04:58 - Root WebApplicationContext: initialization completed in 1768 ms
+2025-01-27 14:04:58 - Sample accounts initialized.
+2025-01-27 14:04:59 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 14:04:59 - HikariPool-1 - Starting...
+2025-01-27 14:05:04 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 14:05:04 - HikariPool-1 - Start completed.
+2025-01-27 14:05:04 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 14:05:04 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:05:04 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 14:05:04 - Started BankingApplication in 8.282 seconds (process running for 9.118)
+2025-01-27 14:05:29 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 14:05:29 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 14:05:29 - Completed initialization in 1 ms
+2025-01-27 14:06:14 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 14:06:14 - Graceful shutdown complete
+2025-01-27 14:06:14 - HikariPool-1 - Shutdown initiated...
+2025-01-27 14:06:14 - HikariPool-1 - Shutdown completed.
+2025-01-27 14:06:22 - Starting BankingApplication using Java 21.0.3 with PID 21436 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 14:06:22 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 14:06:23 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 14:06:23 - Finished Spring Data repository scanning in 24 ms. Found 0 JDBC repository interfaces.
+2025-01-27 14:06:24 - Tomcat initialized with port 8080 (http)
+2025-01-27 14:06:24 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:06:24 - Starting service [Tomcat]
+2025-01-27 14:06:24 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 14:06:24 - Initializing Spring embedded WebApplicationContext
+2025-01-27 14:06:24 - Root WebApplicationContext: initialization completed in 2208 ms
+2025-01-27 14:06:24 - Sample accounts initialized.
+2025-01-27 14:06:24 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 14:06:25 - HikariPool-1 - Starting...
+2025-01-27 14:06:30 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 14:06:30 - HikariPool-1 - Start completed.
+2025-01-27 14:06:30 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 14:06:30 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:06:30 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 14:06:30 - Started BankingApplication in 9.169 seconds (process running for 10.139)
+2025-01-27 14:06:30 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 14:06:30 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 14:06:30 - Completed initialization in 1 ms
+2025-01-27 14:10:54 - Received request to access root.
+2025-01-27 14:16:16 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 14:16:16 - Graceful shutdown complete
+2025-01-27 14:16:16 - HikariPool-1 - Shutdown initiated...
+2025-01-27 14:16:16 - HikariPool-1 - Shutdown completed.
+2025-01-27 14:16:25 - Starting BankingApplication using Java 21.0.3 with PID 17292 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 14:16:25 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 14:16:26 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 14:16:26 - Finished Spring Data repository scanning in 23 ms. Found 0 JDBC repository interfaces.
+2025-01-27 14:16:27 - Tomcat initialized with port 8080 (http)
+2025-01-27 14:16:27 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:16:27 - Starting service [Tomcat]
+2025-01-27 14:16:27 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 14:16:27 - Initializing Spring embedded WebApplicationContext
+2025-01-27 14:16:27 - Root WebApplicationContext: initialization completed in 1991 ms
+2025-01-27 14:16:27 - Sample accounts initialized.
+2025-01-27 14:16:27 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 14:16:28 - HikariPool-1 - Starting...
+2025-01-27 14:16:33 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 14:16:33 - HikariPool-1 - Start completed.
+2025-01-27 14:16:33 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 14:16:33 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:16:33 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 14:16:33 - Started BankingApplication in 8.639 seconds (process running for 9.501)
+2025-01-27 14:16:59 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 14:16:59 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 14:16:59 - Completed initialization in 2 ms
+2025-01-27 14:16:59 - Received request to deposit 100.0 into account: 44444
+2025-01-27 14:16:59 - Received request to get account info for account: 44444
+2025-01-27 14:16:59 - Deposited 100.0 to account 44444. New balance: 100.0
+2025-01-27 14:16:59 - Deposit of 100.0 into account 44444 was successful.
+2025-01-27 14:17:04 - Received request to access root.
+2025-01-27 14:17:08 - Received request to list all accounts
+2025-01-27 14:17:16 - Received request to deposit 100.0 into account: 44444
+2025-01-27 14:17:16 - Received request to get account info for account: 44444
+2025-01-27 14:17:16 - Deposited 100.0 to account 44444. New balance: 200.0
+2025-01-27 14:17:16 - Deposit of 100.0 into account 44444 was successful.
+2025-01-27 14:17:21 - Received request to withdraw 100.0 from account: 44444
+2025-01-27 14:17:21 - Received request to get account info for account: 44444
+2025-01-27 14:17:21 - Withdrew 100.0 from account 44444. Remaining balance: 100.0
+2025-01-27 14:17:21 - Withdrawal of 100.0 from account 44444 was successful.
+2025-01-27 14:17:31 - Received request to transfer 100.0 from account 55555 to account 33333
+2025-01-27 14:17:31 - Received request to get account info for account: 55555
+2025-01-27 14:17:31 - Received request to get account info for account: 33333
+2025-01-27 14:17:31 - Transferred: 100.0 from Account 55555 to Account 33333. Source Balance: 300.0, Destination Balance: 200.0
+2025-01-27 14:17:34 - Received request to save accounts to file: testFile1
+2025-01-27 14:17:34 - Accounts saved successfully to file: testFile1
+2025-01-27 14:19:36 - Received request to list all accounts
+2025-01-27 14:20:17 - Received request to access root.
+2025-01-27 14:20:19 - Received request to list all accounts
+2025-01-27 14:20:21 - Received request to get account info for account: 44444
+2025-01-27 14:20:23 - Received request to deposit 100.0 into account: 44444
+2025-01-27 14:20:23 - Received request to get account info for account: 44444
+2025-01-27 14:20:23 - Deposited 100.0 to account 44444. New balance: 200.0
+2025-01-27 14:20:23 - Deposit of 100.0 into account 44444 was successful.
+2025-01-27 14:20:26 - Received request to withdraw 100.0 from account: 44444
+2025-01-27 14:20:26 - Received request to get account info for account: 44444
+2025-01-27 14:20:26 - Withdrew 100.0 from account 44444. Remaining balance: 100.0
+2025-01-27 14:20:26 - Withdrawal of 100.0 from account 44444 was successful.
+2025-01-27 14:20:29 - Received request to transfer 100.0 from account 55555 to account 33333
+2025-01-27 14:20:29 - Received request to get account info for account: 55555
+2025-01-27 14:20:29 - Received request to get account info for account: 33333
+2025-01-27 14:20:29 - Transferred: 100.0 from Account 55555 to Account 33333. Source Balance: 200.0, Destination Balance: 300.0
+2025-01-27 14:20:31 - Received request to save accounts to file: testFile1
+2025-01-27 14:20:31 - Accounts saved successfully to file: testFile1
+2025-01-27 14:20:33 - Received request to load accounts from file: testFile1
+2025-01-27 14:20:33 - Accounts loaded successfully from file: testFile1
+2025-01-27 14:25:15 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 14:25:15 - Graceful shutdown complete
+2025-01-27 14:25:16 - HikariPool-1 - Shutdown initiated...
+2025-01-27 14:25:16 - HikariPool-1 - Shutdown completed.
+2025-01-27 14:25:26 - Starting BankingApplication using Java 21.0.3 with PID 5632 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 14:25:26 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 14:25:28 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 14:25:28 - Finished Spring Data repository scanning in 42 ms. Found 0 JDBC repository interfaces.
+2025-01-27 14:25:28 - Tomcat initialized with port 8080 (http)
+2025-01-27 14:25:28 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:25:28 - Starting service [Tomcat]
+2025-01-27 14:25:28 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 14:25:28 - Initializing Spring embedded WebApplicationContext
+2025-01-27 14:25:28 - Root WebApplicationContext: initialization completed in 1832 ms
+2025-01-27 14:25:28 - Sample accounts initialized.
+2025-01-27 14:25:29 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 14:25:29 - HikariPool-1 - Starting...
+2025-01-27 14:25:34 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 14:25:34 - HikariPool-1 - Start completed.
+2025-01-27 14:25:34 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 14:25:34 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:25:34 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 14:25:34 - Started BankingApplication in 8.366 seconds (process running for 9.139)
+2025-01-27 14:25:44 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 14:25:44 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 14:25:44 - Completed initialization in 1 ms
+2025-01-27 14:25:44 - Received request to deposit 100.0 into account: 44444
+2025-01-27 14:25:44 - Received request to get account info for account: 44444
+2025-01-27 14:25:44 - Deposited 100.0 to account 44444. New balance: 100.0
+2025-01-27 14:25:44 - Deposit of 100.0 into account 44444 was successful.
+2025-01-27 14:25:57 - Received request to list all accounts
+2025-01-27 14:35:11 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 14:35:11 - Graceful shutdown complete
+2025-01-27 14:35:11 - HikariPool-1 - Shutdown initiated...
+2025-01-27 14:35:11 - HikariPool-1 - Shutdown completed.
+2025-01-27 14:35:15 - Starting BankingApplication using Java 21.0.3 with PID 3640 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 14:35:15 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 14:35:16 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 14:35:16 - Finished Spring Data repository scanning in 24 ms. Found 0 JDBC repository interfaces.
+2025-01-27 14:35:17 - Tomcat initialized with port 8080 (http)
+2025-01-27 14:35:17 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:35:17 - Starting service [Tomcat]
+2025-01-27 14:35:17 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 14:35:17 - Initializing Spring embedded WebApplicationContext
+2025-01-27 14:35:17 - Root WebApplicationContext: initialization completed in 2038 ms
+2025-01-27 14:35:17 - Sample accounts initialized.
+2025-01-27 14:35:17 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 14:35:18 - HikariPool-1 - Starting...
+2025-01-27 14:35:23 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 14:35:23 - HikariPool-1 - Start completed.
+2025-01-27 14:35:23 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 14:35:23 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:35:23 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 14:35:23 - Started BankingApplication in 9.124 seconds (process running for 9.988)
+2025-01-27 14:36:20 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 14:36:20 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 14:36:20 - Completed initialization in 1 ms
+2025-01-27 14:36:53 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 14:36:53 - Graceful shutdown complete
+2025-01-27 14:36:53 - HikariPool-1 - Shutdown initiated...
+2025-01-27 14:36:53 - HikariPool-1 - Shutdown completed.
+2025-01-27 14:36:57 - Starting BankingApplication using Java 21.0.3 with PID 16376 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 14:36:57 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 14:36:58 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 14:36:58 - Finished Spring Data repository scanning in 26 ms. Found 0 JDBC repository interfaces.
+2025-01-27 14:36:59 - Tomcat initialized with port 8080 (http)
+2025-01-27 14:36:59 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:36:59 - Starting service [Tomcat]
+2025-01-27 14:36:59 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 14:36:59 - Initializing Spring embedded WebApplicationContext
+2025-01-27 14:36:59 - Root WebApplicationContext: initialization completed in 1956 ms
+2025-01-27 14:37:00 - Sample accounts initialized.
+2025-01-27 14:37:00 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 14:37:00 - HikariPool-1 - Starting...
+2025-01-27 14:37:05 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 14:37:05 - HikariPool-1 - Start completed.
+2025-01-27 14:37:05 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 14:37:05 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:37:05 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 14:37:05 - Started BankingApplication in 8.582 seconds (process running for 9.457)
+2025-01-27 14:37:15 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 14:37:15 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 14:37:15 - Completed initialization in 1 ms
+2025-01-27 14:37:25 - Received request to deposit 100.0 into account: 44444
+2025-01-27 14:37:25 - Received request to get account info for account: 44444
+2025-01-27 14:37:25 - Deposited 100.0 to account 44444. New balance: 100.0
+2025-01-27 14:37:25 - Deposit of 100.0 into account 44444 was successful.
+2025-01-27 14:37:28 - Received request to list all accounts
+2025-01-27 14:42:03 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 14:42:03 - Graceful shutdown complete
+2025-01-27 14:42:03 - HikariPool-1 - Shutdown initiated...
+2025-01-27 14:42:03 - HikariPool-1 - Shutdown completed.
+2025-01-27 14:42:06 - Starting BankingApplication using Java 21.0.3 with PID 14244 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 14:42:06 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 14:42:07 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 14:42:07 - Finished Spring Data repository scanning in 22 ms. Found 0 JDBC repository interfaces.
+2025-01-27 14:42:07 - Tomcat initialized with port 8080 (http)
+2025-01-27 14:42:07 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:42:08 - Starting service [Tomcat]
+2025-01-27 14:42:08 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 14:42:08 - Initializing Spring embedded WebApplicationContext
+2025-01-27 14:42:08 - Root WebApplicationContext: initialization completed in 1788 ms
+2025-01-27 14:42:08 - Sample accounts initialized.
+2025-01-27 14:42:08 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 14:42:08 - HikariPool-1 - Starting...
+2025-01-27 14:42:13 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 14:42:13 - HikariPool-1 - Start completed.
+2025-01-27 14:42:13 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 14:42:13 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:42:13 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 14:42:13 - Started BankingApplication in 8.234 seconds (process running for 9.014)
+2025-01-27 14:44:04 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 14:44:04 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 14:44:04 - Completed initialization in 2 ms
+2025-01-27 14:52:33 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 14:52:33 - Graceful shutdown complete
+2025-01-27 14:52:33 - HikariPool-1 - Shutdown initiated...
+2025-01-27 14:52:33 - HikariPool-1 - Shutdown completed.
+2025-01-27 14:54:54 - Starting BankingApplication using Java 21.0.3 with PID 20200 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 14:54:54 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 14:54:55 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 14:54:55 - Finished Spring Data repository scanning in 24 ms. Found 0 JDBC repository interfaces.
+2025-01-27 14:54:55 - Tomcat initialized with port 8080 (http)
+2025-01-27 14:54:55 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:54:55 - Starting service [Tomcat]
+2025-01-27 14:54:55 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 14:54:55 - Initializing Spring embedded WebApplicationContext
+2025-01-27 14:54:55 - Root WebApplicationContext: initialization completed in 1787 ms
+2025-01-27 14:54:56 - Sample accounts initialized.
+2025-01-27 14:54:56 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 14:54:56 - HikariPool-1 - Starting...
+2025-01-27 14:55:01 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 14:55:01 - HikariPool-1 - Start completed.
+2025-01-27 14:55:01 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 14:55:02 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:55:02 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 14:55:02 - Started BankingApplication in 8.532 seconds (process running for 9.655)
+2025-01-27 14:55:04 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 14:55:04 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 14:55:04 - Completed initialization in 1 ms
+2025-01-27 14:55:04 - Received request to access root.
+2025-01-27 14:55:04 - Received request to list all accounts
+2025-01-27 14:55:04 - Received request to get account info for account: 44444
+2025-01-27 14:55:04 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target [/banking/transfer?sourceAccountNumber={source}&destinationAccountNumber={destination}&amount={amount} ]. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:481)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-01-27 14:55:35 - Received request to access root.
+2025-01-27 14:55:37 - Received request to list all accounts
+2025-01-27 14:55:40 - Received request to get account info for account: 44444
+2025-01-27 14:55:42 - Received request to deposit 100.0 into account: 44444
+2025-01-27 14:55:42 - Received request to get account info for account: 44444
+2025-01-27 14:55:42 - Deposited 100.0 to account 44444. New balance: 100.0
+2025-01-27 14:55:42 - Deposit of 100.0 into account 44444 was successful.
+2025-01-27 14:55:44 - Received request to withdraw 100.0 from account: 44444
+2025-01-27 14:55:44 - Received request to get account info for account: 44444
+2025-01-27 14:55:44 - Withdrew 100.0 from account 44444. Remaining balance: 0.0
+2025-01-27 14:55:44 - Withdrawal of 100.0 from account 44444 was successful.
+2025-01-27 14:55:47 - Received request to transfer 100.0 from account 55555 to account 33333
+2025-01-27 14:55:47 - Received request to get account info for account: 55555
+2025-01-27 14:55:47 - Received request to get account info for account: 33333
+2025-01-27 14:55:47 - Transferred: 100.0 from Account 55555 to Account 33333. Source Balance: 300.0, Destination Balance: 200.0
+2025-01-27 14:55:50 - Received request to save accounts to file: testFile1
+2025-01-27 14:55:50 - Accounts saved successfully to file: testFile1
+2025-01-27 14:55:52 - Received request to load accounts from file: testFile1
+2025-01-27 14:55:52 - Accounts loaded successfully from file: testFile1
+2025-01-27 14:56:54 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 14:56:54 - Graceful shutdown complete
+2025-01-27 14:56:54 - HikariPool-1 - Shutdown initiated...
+2025-01-27 14:56:54 - HikariPool-1 - Shutdown completed.
+2025-01-27 14:56:58 - Starting BankingApplication using Java 21.0.3 with PID 8524 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 14:56:58 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 14:56:59 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 14:56:59 - Finished Spring Data repository scanning in 22 ms. Found 0 JDBC repository interfaces.
+2025-01-27 14:57:00 - Tomcat initialized with port 8080 (http)
+2025-01-27 14:57:00 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:57:00 - Starting service [Tomcat]
+2025-01-27 14:57:00 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 14:57:00 - Initializing Spring embedded WebApplicationContext
+2025-01-27 14:57:00 - Root WebApplicationContext: initialization completed in 1781 ms
+2025-01-27 14:57:00 - Sample accounts initialized.
+2025-01-27 14:57:00 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 14:57:00 - HikariPool-1 - Starting...
+2025-01-27 14:57:05 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 14:57:05 - HikariPool-1 - Start completed.
+2025-01-27 14:57:05 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 14:57:06 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 14:57:06 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 14:57:06 - Started BankingApplication in 8.233 seconds (process running for 9.091)
+2025-01-27 14:57:13 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 14:57:13 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 14:57:13 - Completed initialization in 1 ms
+2025-01-27 14:57:13 - Received request to access root.
+2025-01-27 14:57:15 - Received request to list all accounts
+2025-01-27 14:57:19 - Received request to get account info for account: 44444
+2025-01-27 14:57:24 - Received request to get account info for account: 44444
+2025-01-27 14:57:25 - Received request to get account info for account: 333333
+2025-01-27 14:57:26 - Received request to get account info for account: 333333
+2025-01-27 14:57:37 - Received request to get account info for account: 333333
+2025-01-27 14:57:42 - Received request to get account info for account: 333333
+2025-01-27 14:57:47 - Received request to get account info for account: 33333
+2025-01-27 14:57:53 - Received request to get account info for account: 33333
+2025-01-27 14:57:54 - Received request to get account info for account: 44444
+2025-01-27 15:21:56 - Received request to list all accounts
+2025-01-27 15:24:53 - Received request to list all accounts
+2025-01-27 15:24:58 - Received request to deposit 100.0 into account: 44444
+2025-01-27 15:24:58 - Received request to get account info for account: 44444
+2025-01-27 15:24:58 - Deposited 100.0 to account 44444. New balance: 100.0
+2025-01-27 15:24:58 - Deposit of 100.0 into account 44444 was successful.
+2025-01-27 15:25:06 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 15:25:06 - Graceful shutdown complete
+2025-01-27 15:25:06 - HikariPool-1 - Shutdown initiated...
+2025-01-27 15:25:06 - HikariPool-1 - Shutdown completed.
+2025-01-27 15:25:16 - Starting BankingApplication using Java 21.0.3 with PID 18428 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 15:25:16 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 15:25:17 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 15:25:17 - Finished Spring Data repository scanning in 27 ms. Found 0 JDBC repository interfaces.
+2025-01-27 15:25:18 - Tomcat initialized with port 8080 (http)
+2025-01-27 15:25:18 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 15:25:18 - Starting service [Tomcat]
+2025-01-27 15:25:18 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 15:25:18 - Initializing Spring embedded WebApplicationContext
+2025-01-27 15:25:18 - Root WebApplicationContext: initialization completed in 2081 ms
+2025-01-27 15:25:18 - Sample accounts initialized.
+2025-01-27 15:25:18 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 15:25:19 - HikariPool-1 - Starting...
+2025-01-27 15:25:23 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 15:25:23 - HikariPool-1 - Start completed.
+2025-01-27 15:25:24 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 15:25:24 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 15:25:24 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 15:25:24 - Started BankingApplication in 8.743 seconds (process running for 9.585)
+2025-01-27 15:28:37 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 15:28:37 - Graceful shutdown complete
+2025-01-27 15:28:37 - HikariPool-1 - Shutdown initiated...
+2025-01-27 15:28:37 - HikariPool-1 - Shutdown completed.
+2025-01-27 15:31:36 - Starting BankingApplication using Java 21.0.3 with PID 21176 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 15:31:36 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 15:31:38 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 15:31:38 - Finished Spring Data repository scanning in 30 ms. Found 0 JDBC repository interfaces.
+2025-01-27 15:31:38 - Tomcat initialized with port 8080 (http)
+2025-01-27 15:31:39 - Root WebApplicationContext: initialization completed in 2065 ms
+2025-01-27 15:31:39 - Sample accounts initialized.
+2025-01-27 15:31:39 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 15:31:39 - HikariPool-1 - Starting...
+2025-01-27 15:31:44 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 15:31:44 - HikariPool-1 - Start completed.
+2025-01-27 15:31:44 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 15:31:44 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 15:31:44 - Started BankingApplication in 8.725 seconds (process running for 9.65)
+2025-01-27 15:31:44 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 15:31:44 - Graceful shutdown complete
+2025-01-27 15:31:44 - HikariPool-1 - Shutdown initiated...
+2025-01-27 15:31:45 - HikariPool-1 - Shutdown completed.
+2025-01-27 15:53:31 - Starting BankingApplication using Java 21.0.3 with PID 22192 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 15:53:31 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 15:53:32 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 15:53:32 - Finished Spring Data repository scanning in 28 ms. Found 0 JDBC repository interfaces.
+2025-01-27 15:53:33 - Tomcat initialized with port 8080 (http)
+2025-01-27 15:53:33 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 15:53:33 - Starting service [Tomcat]
+2025-01-27 15:53:33 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 15:53:33 - Initializing Spring embedded WebApplicationContext
+2025-01-27 15:53:33 - Root WebApplicationContext: initialization completed in 2287 ms
+2025-01-27 15:53:33 - Sample accounts initialized.
+2025-01-27 15:53:34 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 15:53:34 - HikariPool-1 - Starting...
+2025-01-27 15:53:39 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 15:53:39 - HikariPool-1 - Start completed.
+2025-01-27 15:53:39 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 15:53:39 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 15:53:39 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 15:53:39 - Started BankingApplication in 9.109 seconds (process running for 10.039)
+2025-01-27 15:54:39 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 15:54:39 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 15:54:39 - Completed initialization in 2 ms
+2025-01-27 15:54:39 - Received request to access root.
+2025-01-27 15:54:48 - Received request to list all accounts
+2025-01-27 15:54:54 - Received request to get account info for account: 44444
+2025-01-27 15:54:59 - Received request to get account info for account: 44444
+2025-01-27 15:55:01 - Received request to get account info for account: 33333
+2025-01-27 15:55:11 - Received request to deposit 100.0 into account: 33333
+2025-01-27 15:55:11 - Received request to get account info for account: 33333
+2025-01-27 15:55:11 - Deposited 100.0 to account 33333. New balance: 200.0
+2025-01-27 15:55:11 - Deposit of 100.0 into account 33333 was successful.
+2025-01-27 15:55:25 - Received request to withdraw 100.0 from account: 33333
+2025-01-27 15:55:25 - Received request to get account info for account: 33333
+2025-01-27 15:55:25 - Withdrew 100.0 from account 33333. Remaining balance: 100.0
+2025-01-27 15:55:25 - Withdrawal of 100.0 from account 33333 was successful.
+2025-01-27 15:55:31 - Received request to transfer 100.0 from account 55555 to account 33333
+2025-01-27 15:55:31 - Received request to get account info for account: 55555
+2025-01-27 15:55:31 - Received request to get account info for account: 33333
+2025-01-27 15:55:31 - Transferred: 100.0 from Account 55555 to Account 33333. Source Balance: 300.0, Destination Balance: 200.0
+2025-01-27 15:55:40 - Received request to save accounts to file: testFile1
+2025-01-27 15:55:40 - Accounts saved successfully to file: testFile1
+2025-01-27 15:55:45 - Received request to load accounts from file: testFile1
+2025-01-27 15:55:45 - Accounts loaded successfully from file: testFile1
+2025-01-27 16:19:02 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-27 16:19:02 - Graceful shutdown complete
+2025-01-27 16:19:02 - HikariPool-1 - Shutdown initiated...
+2025-01-27 16:19:02 - HikariPool-1 - Shutdown completed.
