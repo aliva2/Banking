@@ -30,15 +30,22 @@ The project was initialized using [Spring Initializr](https://start.spring.io) b
 - **For Logging:**
   - `org.slf4j`
   - `ch.qos.logback`
+ 
+- **For Swagger:**
+  - `springdoc-openapi-ui`
+
+- **Extra:**
+  - `hibernate-validator`
 
 ---
 
 ## **To Do:**
 
-- Set up database
+- Set up database different than H2
 - Implement Swagger for front-end API documentation
-- Implement **GET** and **POST** requests
++ Implement **GET** and **POST** requests
 - Automate tests using **Selenium WebDriver**
+- JUnit tests
 
 ---
 
