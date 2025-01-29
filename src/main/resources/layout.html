@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banking App</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">
+        <h1>Welcome to Banking App</h1>
+    </div>
+    <nav>
+        <ul>
+            <li><a href="/banking/accounts">Accounts</a></li>
+            <li><a href="/banking/deposit">Deposit</a></li>
+            <li><a href="/banking/withdraw">Withdraw</a></li>
+            <li><a href="/banking/transfer">Transfer</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <div class="container">
+        <!-- This is where individual pages will inject their content -->
+        <div th:replace="${body}"></div>
+    </div>
+</main>
+
+<footer>
+    <p>&copy; 2025 Banking App. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

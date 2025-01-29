@@ -7,13 +7,23 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "accounts")
 public class Account {
 
     private static final Logger logger = LoggerFactory.getLogger(Account.class);
 
+    @Id
     private String accountNumber;
     private double balance;
     private String accountHolderName;
+
+    // Default constructor (needed for JPA)
+    public Account() {}
 
     // Constructor
     public Account(String accountNumber, String accountHolderName, double balance) {

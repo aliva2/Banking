@@ -1,6 +1,8 @@
 package com.example.Banking;
 
 import org.springframework.web.bind.annotation.*;
+import org.springframework.beans.factory.annotation.Autowired;
+import java.util.Optional;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
@@ -11,12 +13,34 @@ import org.slf4j.LoggerFactory;
 import java.util.ArrayList;
 import java.util.List;
 
+
 @RestController
 @RequestMapping("/banking")
 public class BankingController {
 
+    @Autowired
+    private BankingService bankingService;
+
     private static final Logger logger = LoggerFactory.getLogger(BankingController.class);
 
+    @GetMapping("/accounts/{accountNumber}")
+    public Optional<Account> getAccount(@PathVariable String accountNumber) {
+        return bankingService.getAccount(accountNumber);
+    }
+
+    @PostMapping("/deposit/{accountNumber}/{amount}")
+    public String deposit(@PathVariable String accountNumber, @PathVariable double amount) {
+        return bankingService.deposit(accountNumber, amount);
+    }
+
+    @PostMapping("/withdraw/{accountNumber}/{amount}")
+    public String withdraw(@PathVariable String accountNumber, @PathVariable double amount) {
+        return bankingService.withdraw(accountNumber, amount);
+    }
+
+
+
+/*
     private final List<Account> accounts = new ArrayList<>();
 
     public BankingController() {
@@ -120,4 +144,6 @@ public class BankingController {
         accounts.addAll(loadedAccounts);
         return "Accounts loaded from file: " + filename;
     }
+    */
+
 }

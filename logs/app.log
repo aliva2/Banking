@@ -1344,3 +1344,1353 @@ java.lang.IllegalArgumentException: Invalid character found in the request targe
 2025-01-27 16:19:02 - Graceful shutdown complete
 2025-01-27 16:19:02 - HikariPool-1 - Shutdown initiated...
 2025-01-27 16:19:02 - HikariPool-1 - Shutdown completed.
+2025-01-27 16:55:47 - Starting BankingApplication using Java 21.0.3 with PID 16376 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-27 16:55:47 - No active profile set, falling back to 1 default profile: "default"
+2025-01-27 16:55:48 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-27 16:55:48 - Finished Spring Data repository scanning in 23 ms. Found 0 JDBC repository interfaces.
+2025-01-27 16:55:49 - Tomcat initialized with port 8080 (http)
+2025-01-27 16:55:49 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-27 16:55:49 - Starting service [Tomcat]
+2025-01-27 16:55:49 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-27 16:55:49 - Initializing Spring embedded WebApplicationContext
+2025-01-27 16:55:49 - Root WebApplicationContext: initialization completed in 1955 ms
+2025-01-27 16:55:49 - Sample accounts initialized.
+2025-01-27 16:55:49 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-27 16:55:49 - HikariPool-1 - Starting...
+2025-01-27 16:55:54 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-27 16:55:54 - HikariPool-1 - Start completed.
+2025-01-27 16:55:54 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-27 16:55:54 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-27 16:55:54 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-27 16:55:54 - Started BankingApplication in 8.489 seconds (process running for 9.283)
+2025-01-27 16:55:55 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-27 16:55:55 - Initializing Servlet 'dispatcherServlet'
+2025-01-27 16:55:55 - Completed initialization in 2 ms
+2025-01-28 11:43:14 - Starting BankingApplication using Java 21.0.3 with PID 15308 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 11:43:14 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 11:43:15 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 11:43:15 - Finished Spring Data repository scanning in 21 ms. Found 0 JDBC repository interfaces.
+2025-01-28 11:43:15 - Tomcat initialized with port 8080 (http)
+2025-01-28 11:43:15 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 11:43:15 - Starting service [Tomcat]
+2025-01-28 11:43:15 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 11:43:15 - Initializing Spring embedded WebApplicationContext
+2025-01-28 11:43:15 - Root WebApplicationContext: initialization completed in 1751 ms
+2025-01-28 11:43:15 - Sample accounts initialized.
+2025-01-28 11:43:16 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 11:43:16 - HikariPool-1 - Starting...
+2025-01-28 11:43:25 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 11:43:25 - HikariPool-1 - Start completed.
+2025-01-28 11:43:25 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 11:43:25 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 11:43:25 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-28 11:43:25 - Started BankingApplication in 12.262 seconds (process running for 13.157)
+2025-01-28 11:47:29 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-28 11:47:29 - Graceful shutdown complete
+2025-01-28 11:47:29 - HikariPool-1 - Shutdown initiated...
+2025-01-28 11:47:29 - HikariPool-1 - Shutdown completed.
+2025-01-28 12:34:58 - Starting BankingApplication using Java 21.0.3 with PID 7184 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 12:34:58 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 12:34:59 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 12:34:59 - Finished Spring Data repository scanning in 27 ms. Found 0 JDBC repository interfaces.
+2025-01-28 12:35:00 - Tomcat initialized with port 8080 (http)
+2025-01-28 12:35:00 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 12:35:00 - Starting service [Tomcat]
+2025-01-28 12:35:00 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 12:35:00 - Initializing Spring embedded WebApplicationContext
+2025-01-28 12:35:00 - Root WebApplicationContext: initialization completed in 1994 ms
+2025-01-28 12:35:00 - Sample accounts initialized.
+2025-01-28 12:35:00 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 12:35:01 - HikariPool-1 - Starting...
+2025-01-28 12:35:06 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 12:35:06 - HikariPool-1 - Start completed.
+2025-01-28 12:35:06 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 12:35:06 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 12:35:06 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-28 12:35:06 - Started BankingApplication in 8.417 seconds (process running for 9.578)
+2025-01-28 12:35:12 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-28 12:35:12 - Initializing Servlet 'dispatcherServlet'
+2025-01-28 12:35:12 - Completed initialization in 1 ms
+2025-01-28 12:35:23 - Received request to access root.
+2025-01-28 13:04:52 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-28 13:04:52 - Graceful shutdown complete
+2025-01-28 13:04:52 - HikariPool-1 - Shutdown initiated...
+2025-01-28 13:04:52 - HikariPool-1 - Shutdown completed.
+2025-01-28 13:37:34 - Starting BankingApplication using Java 21.0.3 with PID 18476 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 13:37:34 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 13:37:35 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 13:37:35 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-28 13:37:36 - Tomcat initialized with port 8080 (http)
+2025-01-28 13:37:36 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:37:36 - Starting service [Tomcat]
+2025-01-28 13:37:36 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 13:37:36 - Initializing Spring embedded WebApplicationContext
+2025-01-28 13:37:36 - Root WebApplicationContext: initialization completed in 1704 ms
+2025-01-28 13:37:36 - Sample accounts initialized.
+2025-01-28 13:37:36 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 13:37:36 - HikariPool-1 - Starting...
+2025-01-28 13:37:41 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 13:37:41 - HikariPool-1 - Start completed.
+2025-01-28 13:37:41 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 13:37:42 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:37:42 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-28 13:37:42 - Started BankingApplication in 8.112 seconds (process running for 8.951)
+2025-01-28 13:37:47 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-28 13:37:47 - Graceful shutdown complete
+2025-01-28 13:37:47 - HikariPool-1 - Shutdown initiated...
+2025-01-28 13:37:47 - HikariPool-1 - Shutdown completed.
+2025-01-28 13:51:03 - Starting BankingApplication v0.0.1-SNAPSHOT using Java 21.0.3 with PID 2144 (C:\Users\User\IdeaProjects\Banking\target\Banking-0.0.1-SNAPSHOT.jar started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 13:51:03 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 13:51:04 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 13:51:04 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-28 13:51:05 - Tomcat initialized with port 8080 (http)
+2025-01-28 13:51:05 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:51:05 - Starting service [Tomcat]
+2025-01-28 13:51:05 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 13:51:05 - Initializing Spring embedded WebApplicationContext
+2025-01-28 13:51:05 - Root WebApplicationContext: initialization completed in 1516 ms
+2025-01-28 13:51:05 - Sample accounts initialized.
+2025-01-28 13:51:05 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 13:51:06 - HikariPool-1 - Starting...
+2025-01-28 13:51:11 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 13:51:11 - HikariPool-1 - Start completed.
+2025-01-28 13:51:11 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 13:51:11 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:51:11 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-28 13:51:11 - Started BankingApplication in 7.836 seconds (process running for 8.63)
+2025-01-28 13:53:36 - Starting BankingApplication using Java 21.0.3 with PID 14244 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 13:53:36 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 13:53:37 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 13:53:37 - Finished Spring Data repository scanning in 19 ms. Found 0 JDBC repository interfaces.
+2025-01-28 13:53:38 - Tomcat initialized with port 8080 (http)
+2025-01-28 13:53:38 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:53:38 - Starting service [Tomcat]
+2025-01-28 13:53:38 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 13:53:38 - Initializing Spring embedded WebApplicationContext
+2025-01-28 13:53:38 - Root WebApplicationContext: initialization completed in 1644 ms
+2025-01-28 13:53:38 - Sample accounts initialized.
+2025-01-28 13:53:38 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 13:53:39 - HikariPool-1 - Starting...
+2025-01-28 13:53:39 - HikariPool-1 - Added connection conn0: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 13:53:39 - HikariPool-1 - Start completed.
+2025-01-28 13:53:39 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 13:53:39 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:53:39 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-28 13:53:39 - HikariPool-1 - Shutdown initiated...
+2025-01-28 13:53:39 - HikariPool-1 - Shutdown completed.
+2025-01-28 13:53:39 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-28 13:53:39 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-28 13:53:54 - Starting BankingApplication using Java 21.0.3 with PID 14520 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 13:53:54 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 13:53:55 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 13:53:55 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-28 13:53:55 - Tomcat initialized with port 8080 (http)
+2025-01-28 13:53:55 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:53:55 - Starting service [Tomcat]
+2025-01-28 13:53:55 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 13:53:55 - Initializing Spring embedded WebApplicationContext
+2025-01-28 13:53:55 - Root WebApplicationContext: initialization completed in 1563 ms
+2025-01-28 13:53:56 - Sample accounts initialized.
+2025-01-28 13:53:56 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 13:53:56 - HikariPool-1 - Starting...
+2025-01-28 13:53:56 - HikariPool-1 - Added connection conn0: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 13:53:56 - HikariPool-1 - Start completed.
+2025-01-28 13:53:57 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 13:53:57 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:53:57 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-28 13:53:57 - HikariPool-1 - Shutdown initiated...
+2025-01-28 13:53:57 - HikariPool-1 - Shutdown completed.
+2025-01-28 13:53:57 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-28 13:53:57 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-28 13:54:28 - Starting BankingApplication using Java 21.0.3 with PID 13808 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 13:54:28 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 13:54:29 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 13:54:29 - Finished Spring Data repository scanning in 20 ms. Found 0 JDBC repository interfaces.
+2025-01-28 13:54:30 - Tomcat initialized with port 8080 (http)
+2025-01-28 13:54:30 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:54:30 - Starting service [Tomcat]
+2025-01-28 13:54:30 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 13:54:30 - Initializing Spring embedded WebApplicationContext
+2025-01-28 13:54:30 - Root WebApplicationContext: initialization completed in 1522 ms
+2025-01-28 13:54:30 - Sample accounts initialized.
+2025-01-28 13:54:30 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 13:54:30 - HikariPool-1 - Starting...
+2025-01-28 13:54:30 - HikariPool-1 - Added connection conn0: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 13:54:30 - HikariPool-1 - Start completed.
+2025-01-28 13:54:31 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 13:54:31 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:54:31 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-28 13:54:31 - HikariPool-1 - Shutdown initiated...
+2025-01-28 13:54:31 - HikariPool-1 - Shutdown completed.
+2025-01-28 13:54:31 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-28 13:54:31 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-28 13:55:07 - Starting BankingApplication using Java 21.0.3 with PID 14236 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 13:55:07 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 13:55:08 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 13:55:08 - Finished Spring Data repository scanning in 17 ms. Found 0 JDBC repository interfaces.
+2025-01-28 13:55:09 - Tomcat initialized with port 8080 (http)
+2025-01-28 13:55:09 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:55:09 - Starting service [Tomcat]
+2025-01-28 13:55:09 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 13:55:09 - Initializing Spring embedded WebApplicationContext
+2025-01-28 13:55:09 - Root WebApplicationContext: initialization completed in 1841 ms
+2025-01-28 13:55:09 - Sample accounts initialized.
+2025-01-28 13:55:09 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 13:55:10 - HikariPool-1 - Starting...
+2025-01-28 13:55:19 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 13:55:19 - HikariPool-1 - Start completed.
+2025-01-28 13:55:19 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 13:55:19 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:55:19 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-28 13:55:19 - Started BankingApplication in 12.581 seconds (process running for 13.422)
+2025-01-28 13:55:39 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-28 13:55:39 - Graceful shutdown complete
+2025-01-28 13:55:39 - HikariPool-1 - Shutdown initiated...
+2025-01-28 13:55:39 - HikariPool-1 - Shutdown completed.
+2025-01-28 13:55:53 - Starting BankingApplication using Java 21.0.3 with PID 11420 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 13:55:53 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 13:55:54 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 13:55:54 - Finished Spring Data repository scanning in 20 ms. Found 0 JDBC repository interfaces.
+2025-01-28 13:55:55 - Tomcat initialized with port 8080 (http)
+2025-01-28 13:55:55 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:55:55 - Starting service [Tomcat]
+2025-01-28 13:55:55 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 13:55:55 - Initializing Spring embedded WebApplicationContext
+2025-01-28 13:55:55 - Root WebApplicationContext: initialization completed in 1565 ms
+2025-01-28 13:55:55 - Sample accounts initialized.
+2025-01-28 13:55:55 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 13:55:56 - HikariPool-1 - Starting...
+2025-01-28 13:56:01 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 13:56:01 - HikariPool-1 - Start completed.
+2025-01-28 13:56:01 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 13:56:01 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:56:01 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-28 13:56:01 - Started BankingApplication in 7.945 seconds (process running for 8.797)
+2025-01-28 13:56:20 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-28 13:56:20 - Graceful shutdown complete
+2025-01-28 13:56:20 - HikariPool-1 - Shutdown initiated...
+2025-01-28 13:56:20 - HikariPool-1 - Shutdown completed.
+2025-01-28 13:56:25 - Starting BankingApplication using Java 21.0.3 with PID 14556 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 13:56:25 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 13:56:26 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 13:56:26 - Finished Spring Data repository scanning in 20 ms. Found 0 JDBC repository interfaces.
+2025-01-28 13:56:27 - Tomcat initialized with port 8080 (http)
+2025-01-28 13:56:27 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:56:27 - Starting service [Tomcat]
+2025-01-28 13:56:27 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 13:56:27 - Initializing Spring embedded WebApplicationContext
+2025-01-28 13:56:27 - Root WebApplicationContext: initialization completed in 1720 ms
+2025-01-28 13:56:27 - Sample accounts initialized.
+2025-01-28 13:56:27 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 13:56:28 - HikariPool-1 - Starting...
+2025-01-28 13:56:33 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 13:56:33 - HikariPool-1 - Start completed.
+2025-01-28 13:56:33 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 13:56:33 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:56:33 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-28 13:56:33 - Started BankingApplication in 8.087 seconds (process running for 8.879)
+2025-01-28 13:57:08 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-28 13:57:08 - Graceful shutdown complete
+2025-01-28 13:57:08 - HikariPool-1 - Shutdown initiated...
+2025-01-28 13:57:08 - HikariPool-1 - Shutdown completed.
+2025-01-28 13:57:21 - Starting BankingApplication using Java 21.0.3 with PID 3112 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 13:57:21 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 13:57:22 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 13:57:22 - Finished Spring Data repository scanning in 19 ms. Found 0 JDBC repository interfaces.
+2025-01-28 13:57:22 - Tomcat initialized with port 8080 (http)
+2025-01-28 13:57:22 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:57:22 - Starting service [Tomcat]
+2025-01-28 13:57:22 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 13:57:23 - Initializing Spring embedded WebApplicationContext
+2025-01-28 13:57:23 - Root WebApplicationContext: initialization completed in 1562 ms
+2025-01-28 13:57:23 - Sample accounts initialized.
+2025-01-28 13:57:23 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 13:57:23 - HikariPool-1 - Starting...
+2025-01-28 13:57:28 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 13:57:28 - HikariPool-1 - Start completed.
+2025-01-28 13:57:28 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 13:57:28 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:57:28 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-28 13:57:28 - Started BankingApplication in 8.052 seconds (process running for 8.88)
+2025-01-28 13:57:36 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-28 13:57:36 - Graceful shutdown complete
+2025-01-28 13:57:36 - HikariPool-1 - Shutdown initiated...
+2025-01-28 13:57:36 - HikariPool-1 - Shutdown completed.
+2025-01-28 13:59:11 - Starting BankingApplication v0.0.1-SNAPSHOT using Java 21.0.3 with PID 2104 (C:\Users\User\IdeaProjects\Banking\target\Banking-0.0.1-SNAPSHOT.jar started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 13:59:11 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 13:59:12 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 13:59:12 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-28 13:59:12 - Tomcat initialized with port 8080 (http)
+2025-01-28 13:59:13 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:59:13 - Starting service [Tomcat]
+2025-01-28 13:59:13 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 13:59:13 - Initializing Spring embedded WebApplicationContext
+2025-01-28 13:59:13 - Root WebApplicationContext: initialization completed in 1612 ms
+2025-01-28 13:59:13 - Sample accounts initialized.
+2025-01-28 13:59:13 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 13:59:13 - HikariPool-1 - Starting...
+2025-01-28 13:59:18 - HikariPool-1 - Added connection conn1: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 13:59:18 - HikariPool-1 - Start completed.
+2025-01-28 13:59:18 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 13:59:18 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 13:59:18 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-28 13:59:18 - Started BankingApplication in 8.017 seconds (process running for 8.792)
+2025-01-28 13:59:39 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-28 13:59:39 - Initializing Servlet 'dispatcherServlet'
+2025-01-28 13:59:39 - Completed initialization in 1 ms
+2025-01-28 13:59:39 - Received request to access root.
+2025-01-28 14:04:24 - Received request to access root.
+2025-01-28 14:55:11 - Received request to access root.
+2025-01-28 16:25:13 - Starting BankingApplication using Java 21.0.3 with PID 11552 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 16:25:13 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 16:25:14 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 16:25:14 - Finished Spring Data repository scanning in 22 ms. Found 0 JDBC repository interfaces.
+2025-01-28 16:25:14 - Tomcat initialized with port 8080 (http)
+2025-01-28 16:25:14 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 16:25:14 - Starting service [Tomcat]
+2025-01-28 16:25:14 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 16:25:14 - Initializing Spring embedded WebApplicationContext
+2025-01-28 16:25:14 - Root WebApplicationContext: initialization completed in 1746 ms
+2025-01-28 16:25:15 - Sample accounts initialized.
+2025-01-28 16:25:15 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 16:25:15 - HikariPool-1 - Starting...
+2025-01-28 16:25:17 - HikariPool-1 - Added connection conn0: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 16:25:17 - HikariPool-1 - Start completed.
+2025-01-28 16:25:17 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 16:25:18 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 16:25:18 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-28 16:25:18 - HikariPool-1 - Shutdown initiated...
+2025-01-28 16:25:18 - HikariPool-1 - Shutdown completed.
+2025-01-28 16:25:18 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-28 16:25:18 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-28 16:48:53 - Starting BankingApplication using Java 21.0.3 with PID 6100 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 16:48:53 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 16:48:53 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 16:48:53 - Finished Spring Data repository scanning in 18 ms. Found 0 JDBC repository interfaces.
+2025-01-28 16:48:54 - Tomcat initialized with port 8080 (http)
+2025-01-28 16:48:54 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 16:48:54 - Starting service [Tomcat]
+2025-01-28 16:48:54 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 16:48:54 - Initializing Spring embedded WebApplicationContext
+2025-01-28 16:48:54 - Root WebApplicationContext: initialization completed in 1580 ms
+2025-01-28 16:48:54 - Sample accounts initialized.
+2025-01-28 16:48:54 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 16:48:55 - HikariPool-1 - Starting...
+2025-01-28 16:48:55 - HikariPool-1 - Added connection conn0: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 16:48:55 - HikariPool-1 - Start completed.
+2025-01-28 16:48:55 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 16:48:55 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 16:48:55 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-28 16:48:55 - HikariPool-1 - Shutdown initiated...
+2025-01-28 16:48:55 - HikariPool-1 - Shutdown completed.
+2025-01-28 16:48:55 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-28 16:48:55 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-28 17:06:43 - Starting BankingApplication using Java 21.0.3 with PID 16632 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-28 17:06:43 - No active profile set, falling back to 1 default profile: "default"
+2025-01-28 17:06:44 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-28 17:06:44 - Finished Spring Data repository scanning in 24 ms. Found 0 JDBC repository interfaces.
+2025-01-28 17:06:45 - Tomcat initialized with port 8080 (http)
+2025-01-28 17:06:45 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-28 17:06:45 - Starting service [Tomcat]
+2025-01-28 17:06:45 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-28 17:06:45 - Initializing Spring embedded WebApplicationContext
+2025-01-28 17:06:45 - Root WebApplicationContext: initialization completed in 2197 ms
+2025-01-28 17:06:45 - Sample accounts initialized.
+2025-01-28 17:06:46 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-28 17:06:46 - HikariPool-1 - Starting...
+2025-01-28 17:06:49 - HikariPool-1 - Added connection conn0: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-28 17:06:49 - HikariPool-1 - Start completed.
+2025-01-28 17:06:49 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-28 17:06:49 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-28 17:06:49 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-28 17:06:49 - HikariPool-1 - Shutdown initiated...
+2025-01-28 17:06:50 - HikariPool-1 - Shutdown completed.
+2025-01-28 17:06:50 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-28 17:06:50 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-29 08:26:33 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9h48m43s152ms444µs400ns).
+2025-01-29 09:57:15 - Received request to access root.
+2025-01-29 09:58:43 - Starting BankingApplication using Java 21.0.3 with PID 27252 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-29 09:58:43 - No active profile set, falling back to 1 default profile: "default"
+2025-01-29 09:58:44 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-29 09:58:44 - Finished Spring Data repository scanning in 17 ms. Found 0 JDBC repository interfaces.
+2025-01-29 09:58:45 - Tomcat initialized with port 8080 (http)
+2025-01-29 09:58:45 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-29 09:58:45 - Starting service [Tomcat]
+2025-01-29 09:58:45 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-29 09:58:45 - Initializing Spring embedded WebApplicationContext
+2025-01-29 09:58:45 - Root WebApplicationContext: initialization completed in 1861 ms
+2025-01-29 09:58:45 - Sample accounts initialized.
+2025-01-29 09:58:46 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-29 09:58:46 - HikariPool-1 - Starting...
+2025-01-29 09:58:46 - HikariPool-1 - Added connection conn0: url=jdbc:h2:file:C:/Users/User/test user=SA
+2025-01-29 09:58:46 - HikariPool-1 - Start completed.
+2025-01-29 09:58:46 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:C:/Users/User/test'
+2025-01-29 09:58:46 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-29 09:58:46 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-29 09:58:46 - HikariPool-1 - Shutdown initiated...
+2025-01-29 09:58:46 - HikariPool-1 - Shutdown completed.
+2025-01-29 09:58:47 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-29 09:58:47 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-29 11:59:20 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-29 11:59:20 - Graceful shutdown complete
+2025-01-29 11:59:21 - HikariPool-1 - Shutdown initiated...
+2025-01-29 11:59:21 - HikariPool-1 - Shutdown completed.
+2025-01-29 12:07:18 - Starting BankingApplication using Java 21.0.3 with PID 24740 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-29 12:07:18 - No active profile set, falling back to 1 default profile: "default"
+2025-01-29 12:07:19 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-29 12:07:19 - Finished Spring Data repository scanning in 24 ms. Found 0 JDBC repository interfaces.
+2025-01-29 12:07:20 - Tomcat initialized with port 8080 (http)
+2025-01-29 12:07:20 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-29 12:07:20 - Starting service [Tomcat]
+2025-01-29 12:07:20 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-29 12:07:20 - Initializing Spring embedded WebApplicationContext
+2025-01-29 12:07:20 - Root WebApplicationContext: initialization completed in 1691 ms
+2025-01-29 12:07:20 - Sample accounts initialized.
+2025-01-29 12:07:20 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-29 12:07:20 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Cannot load driver class: org.postgresql.Driver
+2025-01-29 12:07:20 - Stopping service [Tomcat]
+2025-01-29 12:07:20 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-29 12:07:20 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Cannot load driver class: org.postgresql.Driver
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1122)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1030)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.Banking.BankingApplication.main(BankingApplication.java:10)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Cannot load driver class: org.postgresql.Driver
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 21 common frames omitted
+Caused by: java.lang.IllegalStateException: Cannot load driver class: org.postgresql.Driver
+	at org.springframework.util.Assert.state(Assert.java:101)
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.determineDriverClassName(DataSourceProperties.java:175)
+	at org.springframework.boot.autoconfigure.jdbc.PropertiesJdbcConnectionDetails.getDriverClassName(PropertiesJdbcConnectionDetails.java:49)
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.createDataSource(DataSourceConfiguration.java:55)
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari.dataSource(DataSourceConfiguration.java:117)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 24 common frames omitted
+2025-01-29 12:16:15 - Starting BankingApplication using Java 21.0.3 with PID 26240 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-29 12:16:15 - No active profile set, falling back to 1 default profile: "default"
+2025-01-29 12:16:15 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-29 12:16:15 - Finished Spring Data repository scanning in 12 ms. Found 0 JDBC repository interfaces.
+2025-01-29 12:16:16 - Tomcat initialized with port 8080 (http)
+2025-01-29 12:16:16 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-29 12:16:16 - Starting service [Tomcat]
+2025-01-29 12:16:16 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-29 12:16:16 - Initializing Spring embedded WebApplicationContext
+2025-01-29 12:16:16 - Root WebApplicationContext: initialization completed in 1100 ms
+2025-01-29 12:16:16 - Sample accounts initialized.
+2025-01-29 12:16:16 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-29 12:16:16 - HikariPool-1 - Starting...
+2025-01-29 12:16:18 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jdbcMappingContext' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Unsatisfied dependency expressed through method 'jdbcMappingContext' parameter 1: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+2025-01-29 12:16:18 - Stopping service [Tomcat]
+2025-01-29 12:16:18 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-29 12:16:18 - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jdbcMappingContext' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Unsatisfied dependency expressed through method 'jdbcMappingContext' parameter 1: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:804)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:546)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1122)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1030)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.Banking.BankingApplication.main(BankingApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:489)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1631)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1519)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:913)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 21 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 35 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:224)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1489)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1450)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveBean(DefaultListableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:371)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:364)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1290)
+	at org.springframework.data.jdbc.repository.config.AbstractJdbcConfiguration.jdbcCustomConversions(AbstractJdbcConfiguration.java:154)
+	at org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.jdbcCustomConversions(JdbcRepositoriesAutoConfiguration.java:127)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 38 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 58 common frames omitted
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:84)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:342)
+	at org.springframework.data.jdbc.repository.config.DialectResolver$DefaultDialectProvider.getDialect(DialectResolver.java:108)
+	at org.springframework.data.jdbc.repository.config.DialectResolver.lambda$getDialect$0(DialectResolver.java:78)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1685)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647)
+	at org.springframework.data.jdbc.repository.config.DialectResolver.getDialect(DialectResolver.java:80)
+	at org.springframework.data.jdbc.repository.config.AbstractJdbcConfiguration.jdbcDialect(AbstractJdbcConfiguration.java:227)
+	at org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.jdbcDialect(JdbcRepositoriesAutoConfiguration.java:151)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 61 common frames omitted
+Caused by: org.postgresql.util.PSQLException: The connection attempt failed.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:364)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.connect(Driver.java:298)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:550)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:98)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:160)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:118)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:81)
+	... 79 common frames omitted
+Caused by: java.net.UnknownHostException: dpg-cucv6ptumphs73ddij9g-a
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:260)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:121)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:140)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:268)
+	... 93 common frames omitted
+2025-01-29 12:18:31 - Starting BankingApplication using Java 21.0.3 with PID 10704 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-29 12:18:31 - No active profile set, falling back to 1 default profile: "default"
+2025-01-29 12:18:31 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-29 12:18:31 - Finished Spring Data repository scanning in 13 ms. Found 0 JDBC repository interfaces.
+2025-01-29 12:18:32 - Tomcat initialized with port 8080 (http)
+2025-01-29 12:18:32 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-29 12:18:32 - Starting service [Tomcat]
+2025-01-29 12:18:32 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-29 12:18:32 - Initializing Spring embedded WebApplicationContext
+2025-01-29 12:18:32 - Root WebApplicationContext: initialization completed in 1117 ms
+2025-01-29 12:18:32 - Sample accounts initialized.
+2025-01-29 12:18:32 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-29 12:18:32 - HikariPool-1 - Starting...
+2025-01-29 12:18:34 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jdbcMappingContext' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Unsatisfied dependency expressed through method 'jdbcMappingContext' parameter 1: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+2025-01-29 12:18:34 - Stopping service [Tomcat]
+2025-01-29 12:18:35 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-29 12:18:35 - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jdbcMappingContext' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Unsatisfied dependency expressed through method 'jdbcMappingContext' parameter 1: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:804)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:546)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1122)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1030)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.Banking.BankingApplication.main(BankingApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:489)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1631)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1519)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:913)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 21 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 35 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:224)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1489)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1450)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveBean(DefaultListableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:371)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:364)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1290)
+	at org.springframework.data.jdbc.repository.config.AbstractJdbcConfiguration.jdbcCustomConversions(AbstractJdbcConfiguration.java:154)
+	at org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.jdbcCustomConversions(JdbcRepositoriesAutoConfiguration.java:127)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 38 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 58 common frames omitted
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:84)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:342)
+	at org.springframework.data.jdbc.repository.config.DialectResolver$DefaultDialectProvider.getDialect(DialectResolver.java:108)
+	at org.springframework.data.jdbc.repository.config.DialectResolver.lambda$getDialect$0(DialectResolver.java:78)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1685)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647)
+	at org.springframework.data.jdbc.repository.config.DialectResolver.getDialect(DialectResolver.java:80)
+	at org.springframework.data.jdbc.repository.config.AbstractJdbcConfiguration.jdbcDialect(AbstractJdbcConfiguration.java:227)
+	at org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.jdbcDialect(JdbcRepositoriesAutoConfiguration.java:151)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 61 common frames omitted
+Caused by: org.postgresql.util.PSQLException: The connection attempt failed.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:364)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.connect(Driver.java:298)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:550)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:98)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:160)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:118)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:81)
+	... 79 common frames omitted
+Caused by: java.net.UnknownHostException: dpg-cucv6ptumphs73ddij9g-a
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:260)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:121)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:140)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:268)
+	... 93 common frames omitted
+2025-01-29 12:22:40 - Starting BankingApplication using Java 21.0.3 with PID 7472 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-29 12:22:40 - No active profile set, falling back to 1 default profile: "default"
+2025-01-29 12:22:40 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-29 12:22:40 - Finished Spring Data repository scanning in 12 ms. Found 0 JDBC repository interfaces.
+2025-01-29 12:22:41 - Tomcat initialized with port 8080 (http)
+2025-01-29 12:22:41 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-29 12:22:41 - Starting service [Tomcat]
+2025-01-29 12:22:41 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-29 12:22:41 - Initializing Spring embedded WebApplicationContext
+2025-01-29 12:22:41 - Root WebApplicationContext: initialization completed in 1099 ms
+2025-01-29 12:22:41 - Sample accounts initialized.
+2025-01-29 12:22:41 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-29 12:22:41 - HikariPool-1 - Starting...
+2025-01-29 12:22:43 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jdbcMappingContext' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Unsatisfied dependency expressed through method 'jdbcMappingContext' parameter 1: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+2025-01-29 12:22:43 - Stopping service [Tomcat]
+2025-01-29 12:22:44 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-29 12:22:44 - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jdbcMappingContext' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Unsatisfied dependency expressed through method 'jdbcMappingContext' parameter 1: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:804)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:546)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1122)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1030)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.Banking.BankingApplication.main(BankingApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:489)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1631)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1519)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:913)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 21 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 35 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:224)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1489)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1450)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveBean(DefaultListableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:371)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:364)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1290)
+	at org.springframework.data.jdbc.repository.config.AbstractJdbcConfiguration.jdbcCustomConversions(AbstractJdbcConfiguration.java:154)
+	at org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.jdbcCustomConversions(JdbcRepositoriesAutoConfiguration.java:127)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 38 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 58 common frames omitted
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:84)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:342)
+	at org.springframework.data.jdbc.repository.config.DialectResolver$DefaultDialectProvider.getDialect(DialectResolver.java:108)
+	at org.springframework.data.jdbc.repository.config.DialectResolver.lambda$getDialect$0(DialectResolver.java:78)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1685)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647)
+	at org.springframework.data.jdbc.repository.config.DialectResolver.getDialect(DialectResolver.java:80)
+	at org.springframework.data.jdbc.repository.config.AbstractJdbcConfiguration.jdbcDialect(AbstractJdbcConfiguration.java:227)
+	at org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.jdbcDialect(JdbcRepositoriesAutoConfiguration.java:151)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 61 common frames omitted
+Caused by: org.postgresql.util.PSQLException: The connection attempt failed.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:364)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.connect(Driver.java:298)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:550)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:98)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:160)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:118)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:81)
+	... 79 common frames omitted
+Caused by: java.net.UnknownHostException: dpg-cucv6ptumphs73ddij9g-a
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:260)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:121)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:140)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:268)
+	... 93 common frames omitted
+2025-01-29 12:25:36 - Starting BankingApplication using Java 21.0.3 with PID 6592 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-29 12:25:36 - No active profile set, falling back to 1 default profile: "default"
+2025-01-29 12:25:36 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-29 12:25:36 - Finished Spring Data repository scanning in 12 ms. Found 0 JDBC repository interfaces.
+2025-01-29 12:25:37 - Tomcat initialized with port 8080 (http)
+2025-01-29 12:25:37 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-29 12:25:37 - Starting service [Tomcat]
+2025-01-29 12:25:37 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-29 12:25:37 - Initializing Spring embedded WebApplicationContext
+2025-01-29 12:25:37 - Root WebApplicationContext: initialization completed in 1100 ms
+2025-01-29 12:25:37 - Sample accounts initialized.
+2025-01-29 12:25:37 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-29 12:25:37 - HikariPool-1 - Starting...
+2025-01-29 12:25:40 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jdbcMappingContext' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Unsatisfied dependency expressed through method 'jdbcMappingContext' parameter 1: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+2025-01-29 12:25:40 - Stopping service [Tomcat]
+2025-01-29 12:25:40 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-29 12:25:40 - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jdbcMappingContext' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Unsatisfied dependency expressed through method 'jdbcMappingContext' parameter 1: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:804)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:546)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1122)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1030)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.Banking.BankingApplication.main(BankingApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:489)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1631)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1519)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:913)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 21 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 35 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:224)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1489)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1450)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveBean(DefaultListableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:371)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:364)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1290)
+	at org.springframework.data.jdbc.repository.config.AbstractJdbcConfiguration.jdbcCustomConversions(AbstractJdbcConfiguration.java:154)
+	at org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.jdbcCustomConversions(JdbcRepositoriesAutoConfiguration.java:127)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 38 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 58 common frames omitted
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:84)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:342)
+	at org.springframework.data.jdbc.repository.config.DialectResolver$DefaultDialectProvider.getDialect(DialectResolver.java:108)
+	at org.springframework.data.jdbc.repository.config.DialectResolver.lambda$getDialect$0(DialectResolver.java:78)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1685)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647)
+	at org.springframework.data.jdbc.repository.config.DialectResolver.getDialect(DialectResolver.java:80)
+	at org.springframework.data.jdbc.repository.config.AbstractJdbcConfiguration.jdbcDialect(AbstractJdbcConfiguration.java:227)
+	at org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.jdbcDialect(JdbcRepositoriesAutoConfiguration.java:151)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 61 common frames omitted
+Caused by: org.postgresql.util.PSQLException: The connection attempt failed.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:364)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.connect(Driver.java:298)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:550)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:98)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:160)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:118)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:81)
+	... 79 common frames omitted
+Caused by: java.net.UnknownHostException: dpg-cucv6ptumphs73ddij9g-a
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:260)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:121)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:140)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:268)
+	... 93 common frames omitted
+2025-01-29 12:29:05 - Starting BankingApplication using Java 21.0.3 with PID 27576 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-29 12:29:05 - No active profile set, falling back to 1 default profile: "default"
+2025-01-29 12:29:06 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-29 12:29:06 - Finished Spring Data repository scanning in 21 ms. Found 0 JDBC repository interfaces.
+2025-01-29 12:29:06 - Tomcat initialized with port 8080 (http)
+2025-01-29 12:29:06 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-29 12:29:06 - Starting service [Tomcat]
+2025-01-29 12:29:06 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-29 12:29:07 - Initializing Spring embedded WebApplicationContext
+2025-01-29 12:29:07 - Root WebApplicationContext: initialization completed in 1563 ms
+2025-01-29 12:29:07 - Sample accounts initialized.
+2025-01-29 12:29:07 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-29 12:29:07 - HikariPool-1 - Starting...
+2025-01-29 12:29:09 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jdbcMappingContext' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Unsatisfied dependency expressed through method 'jdbcMappingContext' parameter 1: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+2025-01-29 12:29:09 - Stopping service [Tomcat]
+2025-01-29 12:29:09 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-29 12:29:09 - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jdbcMappingContext' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Unsatisfied dependency expressed through method 'jdbcMappingContext' parameter 1: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:804)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:546)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1122)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1030)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.Banking.BankingApplication.main(BankingApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jdbcCustomConversions' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:489)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1631)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1519)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:913)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 21 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.jdbc.core.convert.JdbcCustomConversions]: Factory method 'jdbcCustomConversions' threw exception with message: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 35 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jdbcDialect' defined in class path resource [org/springframework/boot/autoconfigure/data/jdbc/JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.class]: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:289)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:224)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1489)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveNamedBean(DefaultListableBeanFactory.java:1450)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveBean(DefaultListableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:371)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:364)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1290)
+	at org.springframework.data.jdbc.repository.config.AbstractJdbcConfiguration.jdbcCustomConversions(AbstractJdbcConfiguration.java:154)
+	at org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.jdbcCustomConversions(JdbcRepositoriesAutoConfiguration.java:127)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 38 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.relational.core.dialect.Dialect]: Factory method 'jdbcDialect' threw exception with message: Failed to obtain JDBC Connection
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 58 common frames omitted
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:84)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:342)
+	at org.springframework.data.jdbc.repository.config.DialectResolver$DefaultDialectProvider.getDialect(DialectResolver.java:108)
+	at org.springframework.data.jdbc.repository.config.DialectResolver.lambda$getDialect$0(DialectResolver.java:78)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1685)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647)
+	at org.springframework.data.jdbc.repository.config.DialectResolver.getDialect(DialectResolver.java:80)
+	at org.springframework.data.jdbc.repository.config.AbstractJdbcConfiguration.jdbcDialect(AbstractJdbcConfiguration.java:227)
+	at org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration$SpringBootJdbcConfiguration.jdbcDialect(JdbcRepositoriesAutoConfiguration.java:151)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171)
+	... 61 common frames omitted
+Caused by: org.postgresql.util.PSQLException: The connection attempt failed.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:364)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.connect(Driver.java:298)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:550)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:98)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:160)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:118)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:81)
+	... 79 common frames omitted
+Caused by: java.net.UnknownHostException: dpg-cucv6ptumphs73ddij9g-a
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:260)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:121)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:140)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:268)
+	... 93 common frames omitted
+2025-01-29 12:31:53 - Starting BankingApplication using Java 21.0.3 with PID 1680 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-29 12:31:53 - No active profile set, falling back to 1 default profile: "default"
+2025-01-29 12:31:54 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-29 12:31:54 - Finished Spring Data repository scanning in 21 ms. Found 0 JDBC repository interfaces.
+2025-01-29 12:31:55 - Tomcat initialized with port 8080 (http)
+2025-01-29 12:31:55 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-29 12:31:55 - Starting service [Tomcat]
+2025-01-29 12:31:55 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-29 12:31:55 - Initializing Spring embedded WebApplicationContext
+2025-01-29 12:31:55 - Root WebApplicationContext: initialization completed in 1821 ms
+2025-01-29 12:31:55 - Sample accounts initialized.
+2025-01-29 12:31:55 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-29 12:31:56 - HikariPool-1 - Starting...
+2025-01-29 12:31:57 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@c48b543
+2025-01-29 12:31:57 - HikariPool-1 - Start completed.
+2025-01-29 12:31:57 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-29 12:31:57 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-29 12:31:57 - Started BankingApplication in 4.675 seconds (process running for 5.437)
+2025-01-29 12:32:24 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-29 12:32:24 - Initializing Servlet 'dispatcherServlet'
+2025-01-29 12:32:24 - Completed initialization in 1 ms
+2025-01-29 12:32:24 - Received request to access root.
+2025-01-29 13:52:47 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-29 13:52:47 - Graceful shutdown complete
+2025-01-29 13:52:47 - HikariPool-1 - Shutdown initiated...
+2025-01-29 13:52:47 - HikariPool-1 - Shutdown completed.
+2025-01-29 13:52:51 - Starting BankingApplication using Java 21.0.3 with PID 2624 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-29 13:52:51 - No active profile set, falling back to 1 default profile: "default"
+2025-01-29 13:52:52 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-29 13:52:52 - Finished Spring Data repository scanning in 21 ms. Found 0 JDBC repository interfaces.
+2025-01-29 13:52:53 - Tomcat initialized with port 8080 (http)
+2025-01-29 13:52:53 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-29 13:52:53 - Starting service [Tomcat]
+2025-01-29 13:52:53 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-29 13:52:53 - Initializing Spring embedded WebApplicationContext
+2025-01-29 13:52:53 - Root WebApplicationContext: initialization completed in 1820 ms
+2025-01-29 13:52:53 - Sample accounts initialized.
+2025-01-29 13:52:53 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-29 13:52:54 - HikariPool-1 - Starting...
+2025-01-29 13:52:55 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@272778ae
+2025-01-29 13:52:55 - HikariPool-1 - Start completed.
+2025-01-29 13:52:56 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-29 13:52:56 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-29 13:52:56 - Started BankingApplication in 5.345 seconds (process running for 6.165)
+2025-01-29 14:09:00 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-29 14:09:00 - Initializing Servlet 'dispatcherServlet'
+2025-01-29 14:09:00 - Completed initialization in 2 ms
+2025-01-29 14:09:00 - Received request to access root.
+2025-01-29 14:09:04 - Received request to list all accounts
+2025-01-29 14:55:45 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-29 14:55:45 - Graceful shutdown complete
+2025-01-29 14:55:45 - HikariPool-1 - Shutdown initiated...
+2025-01-29 14:55:45 - HikariPool-1 - Shutdown completed.
+2025-01-29 14:58:18 - Starting BankingApplication using Java 21.0.3 with PID 22832 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-29 14:58:18 - No active profile set, falling back to 1 default profile: "default"
+2025-01-29 14:58:19 - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-01-29 14:58:19 - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-01-29 14:58:19 - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.example.Banking.AccountRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2025-01-29 14:58:19 - Finished Spring Data repository scanning in 41 ms. Found 0 JDBC repository interfaces.
+2025-01-29 14:58:19 - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-01-29 14:58:19 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-29 14:58:19 - Finished Spring Data repository scanning in 33 ms. Found 1 JPA repository interface.
+2025-01-29 14:58:20 - Tomcat initialized with port 8080 (http)
+2025-01-29 14:58:20 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-29 14:58:20 - Starting service [Tomcat]
+2025-01-29 14:58:20 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-29 14:58:20 - Initializing Spring embedded WebApplicationContext
+2025-01-29 14:58:20 - Root WebApplicationContext: initialization completed in 2033 ms
+2025-01-29 14:58:20 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': Unsatisfied dependency expressed through constructor parameter 1: Error creating bean with name 'spring.jpa-org.springframework.boot.autoconfigure.orm.jpa.JpaProperties': Could not bind properties to 'JpaProperties' : prefix=spring.jpa, ignoreInvalidFields=false, ignoreUnknownFields=true
+2025-01-29 14:58:20 - Stopping service [Tomcat]
+2025-01-29 14:58:20 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-29 14:58:20 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'spring.jpa.show-sql' to boolean:
+
+    Property: spring.jpa.show-sql
+    Value: "true  # Show SQL queries in logs"
+    Origin: class path resource [application.properties] - 17:21
+    Reason: failed to convert java.lang.String to boolean (caused by java.lang.IllegalArgumentException: Invalid boolean value 'true  # Show SQL queries in logs')
+
+Action:
+
+Update your application's configuration
+

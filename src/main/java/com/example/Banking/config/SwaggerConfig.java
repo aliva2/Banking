@@ -1,7 +1,5 @@
 package com.example.Banking.config;
 
-import io.swagger.v3.oas.models.info.Contact;
-import io.swagger.v3.oas.models.info.License;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import io.swagger.v3.oas.models.OpenAPI;
@@ -17,8 +15,5 @@ public class SwaggerConfig {
                         .title("My API")
                         .version("v1")
                         .description("API Documentation"));
-                        //.termsOfService("http://example.com/terms")
-                        //.contact(new Contact().name("John Doe").email("johndoe@example.com"))
-                        //.license(new License().name("Apache 2.0").url("http://www.apache.org/licenses/LICENSE-2.0")));
     }
 }
