@@ -23,12 +23,14 @@ The project was initialized using [Spring Initializr](https://start.spring.io) b
   - `spring-boot-starter-web`
   - `spring-boot-starter-test`
   - `spring-boot-maven-plugin`
+  - `spring-boot-starter-data-jpa`
+  - `spring-boot-starter-thymeleaf`
 
 - **Database:**
-  - `H2 database`
+  - `postgresql database` (changed from `H2 database`)
 
 - **For Logging:**
-  - `org.slf4j`
+  - `org.slf4j` maybe later change to `log4j`
   - `ch.qos.logback`
  
 - **For Swagger:**
@@ -36,6 +38,7 @@ The project was initialized using [Spring Initializr](https://start.spring.io) b
 
 - **Extra:**
   - `hibernate-validator`
+  - `jakarta.persistence-api`
 
 ---
 
