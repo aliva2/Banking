@@ -1,5 +1,6 @@
-package com.example.Banking;
+package com.example.Banking.repository;
 
+import com.example.Banking.model.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

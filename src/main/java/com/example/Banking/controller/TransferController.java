@@ -1,4 +1,4 @@
-package com.example.Banking;
+package com.example.Banking.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

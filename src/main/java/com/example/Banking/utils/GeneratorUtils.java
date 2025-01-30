@@ -1,4 +1,4 @@
-package com.example.Banking;
+package com.example.Banking.utils;
 
 import java.util.Random;
 //card number for security

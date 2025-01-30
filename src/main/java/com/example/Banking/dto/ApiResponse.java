@@ -1,4 +1,4 @@
-package com.example.Banking;
+package com.example.Banking.dto;
 
 public class ApiResponse {
 
