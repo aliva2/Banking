@@ -6986,3 +6986,218 @@ Caused by: org.postgresql.util.PSQLException: ERROR: column "account_number" of 
 2025-01-30 14:20:26 - Closing JPA EntityManagerFactory for persistence unit 'default'
 2025-01-30 14:20:26 - HikariPool-1 - Shutdown initiated...
 2025-01-30 14:20:27 - HikariPool-1 - Shutdown completed.
+2025-01-30 14:20:36 - Starting BankingApplication using Java 21.0.3 with PID 4596 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-30 14:20:36 - No active profile set, falling back to 1 default profile: "default"
+2025-01-30 14:20:37 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-30 14:20:37 - Finished Spring Data repository scanning in 89 ms. Found 1 JPA repository interface.
+2025-01-30 14:20:38 - Tomcat initialized with port 8080 (http)
+2025-01-30 14:20:38 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-30 14:20:38 - Starting service [Tomcat]
+2025-01-30 14:20:38 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-30 14:20:38 - Initializing Spring embedded WebApplicationContext
+2025-01-30 14:20:38 - Root WebApplicationContext: initialization completed in 2609 ms
+2025-01-30 14:20:39 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-01-30 14:20:39 - HHH000412: Hibernate ORM core version 6.6.4.Final
+2025-01-30 14:20:39 - HHH000026: Second-level cache disabled
+2025-01-30 14:20:39 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-01-30 14:20:39 - HikariPool-1 - Starting...
+2025-01-30 14:20:41 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@48af5f38
+2025-01-30 14:20:41 - HikariPool-1 - Start completed.
+2025-01-30 14:20:41 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 16.6
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-01-30 14:20:42 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-01-30 14:20:42 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-01-30 14:20:43 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-01-30 14:20:43 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-30 14:20:44 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-30 14:20:44 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-30 14:20:44 - Started BankingApplication in 8.597 seconds (process running for 9.597)
+2025-01-30 14:22:41 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-30 14:22:41 - Initializing Servlet 'dispatcherServlet'
+2025-01-30 14:22:41 - Completed initialization in 2 ms
+2025-01-30 14:23:49 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target [/api/v1/transfer?sourceAccountNumber={source}&destinationAccountNumber={destination}&amount={amount} ]. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:481)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-01-30 14:31:21 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-30 14:31:21 - Graceful shutdown complete
+2025-01-30 14:31:21 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-01-30 14:31:21 - HikariPool-1 - Shutdown initiated...
+2025-01-30 14:31:21 - HikariPool-1 - Shutdown completed.
+2025-01-30 14:32:13 - Starting BankingApplication using Java 21.0.3 with PID 3068 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-30 14:32:13 - No active profile set, falling back to 1 default profile: "default"
+2025-01-30 14:32:15 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-30 14:32:15 - Finished Spring Data repository scanning in 156 ms. Found 1 JPA repository interface.
+2025-01-30 14:32:16 - Tomcat initialized with port 8080 (http)
+2025-01-30 14:32:16 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-30 14:32:16 - Starting service [Tomcat]
+2025-01-30 14:32:16 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-30 14:32:16 - Initializing Spring embedded WebApplicationContext
+2025-01-30 14:32:16 - Root WebApplicationContext: initialization completed in 2917 ms
+2025-01-30 14:32:16 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-01-30 14:32:17 - HHH000412: Hibernate ORM core version 6.6.4.Final
+2025-01-30 14:32:17 - HHH000026: Second-level cache disabled
+2025-01-30 14:32:17 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-01-30 14:32:17 - HikariPool-1 - Starting...
+2025-01-30 14:32:20 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1308ef19
+2025-01-30 14:32:20 - HikariPool-1 - Start completed.
+2025-01-30 14:32:20 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 16.6
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-01-30 14:32:21 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-01-30 14:32:21 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-01-30 14:32:22 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-01-30 14:32:22 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-30 14:32:23 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-30 14:32:23 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-30 14:32:23 - Started BankingApplication in 10.482 seconds (process running for 11.709)
+2025-01-30 14:51:04 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-30 14:51:05 - Graceful shutdown complete
+2025-01-30 14:51:05 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-01-30 14:51:05 - HikariPool-1 - Shutdown initiated...
+2025-01-30 14:51:05 - HikariPool-1 - Shutdown completed.
+2025-01-30 14:51:14 - Starting BankingApplication using Java 21.0.3 with PID 22532 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-30 14:51:14 - No active profile set, falling back to 1 default profile: "default"
+2025-01-30 14:51:15 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-30 14:51:15 - Finished Spring Data repository scanning in 102 ms. Found 2 JPA repository interfaces.
+2025-01-30 14:51:16 - Tomcat initialized with port 8080 (http)
+2025-01-30 14:51:16 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-30 14:51:16 - Starting service [Tomcat]
+2025-01-30 14:51:16 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-30 14:51:17 - Initializing Spring embedded WebApplicationContext
+2025-01-30 14:51:17 - Root WebApplicationContext: initialization completed in 2853 ms
+2025-01-30 14:51:17 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-01-30 14:51:17 - HHH000412: Hibernate ORM core version 6.6.4.Final
+2025-01-30 14:51:17 - HHH000026: Second-level cache disabled
+2025-01-30 14:51:18 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-01-30 14:51:18 - HikariPool-1 - Starting...
+2025-01-30 14:51:19 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1131aead
+2025-01-30 14:51:19 - HikariPool-1 - Start completed.
+2025-01-30 14:51:19 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 16.6
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-01-30 14:51:20 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-01-30 14:51:21 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-01-30 14:51:21 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-30 14:51:22 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-30 14:51:22 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-30 14:51:22 - Started BankingApplication in 9.366 seconds (process running for 10.538)
+2025-01-30 14:51:28 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-30 14:51:28 - Initializing Servlet 'dispatcherServlet'
+2025-01-30 14:51:28 - Completed initialization in 1 ms
+2025-01-30 14:51:56 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target [/api/v1/transfer?sourceAccountNumber={source}&destinationAccountNumber={destination}&amount={amount} ]. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:481)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-01-30 14:52:10 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-30 14:52:10 - Graceful shutdown complete
+2025-01-30 14:52:10 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-01-30 14:52:10 - HikariPool-1 - Shutdown initiated...
+2025-01-30 14:52:10 - HikariPool-1 - Shutdown completed.
+2025-01-30 14:54:26 - Starting BankingApplication using Java 21.0.3 with PID 9384 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-30 14:54:26 - No active profile set, falling back to 1 default profile: "default"
+2025-01-30 14:54:28 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-30 14:54:28 - Finished Spring Data repository scanning in 90 ms. Found 2 JPA repository interfaces.
+2025-01-30 14:54:33 - Tomcat initialized with port 8080 (http)
+2025-01-30 14:54:33 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-30 14:54:33 - Starting service [Tomcat]
+2025-01-30 14:54:33 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-30 14:54:33 - Initializing Spring embedded WebApplicationContext
+2025-01-30 14:54:33 - Root WebApplicationContext: initialization completed in 6781 ms
+2025-01-30 14:54:33 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-01-30 14:54:33 - HHH000412: Hibernate ORM core version 6.6.4.Final
+2025-01-30 14:54:34 - HHH000026: Second-level cache disabled
+2025-01-30 14:54:34 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-01-30 14:54:34 - HikariPool-1 - Starting...
+2025-01-30 14:54:40 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@18811c42
+2025-01-30 14:54:40 - HikariPool-1 - Start completed.
+2025-01-30 14:54:41 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 16.6
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-01-30 14:54:42 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-01-30 14:54:42 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-01-30 14:54:43 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-30 14:54:44 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-30 14:54:44 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-30 14:54:44 - Started BankingApplication in 18.291 seconds (process running for 23.179)
+2025-01-30 14:55:56 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-30 14:55:56 - Initializing Servlet 'dispatcherServlet'
+2025-01-30 14:55:56 - Completed initialization in 2 ms
+2025-01-30 14:56:59 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-30 14:56:59 - Graceful shutdown complete
+2025-01-30 14:56:59 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-01-30 14:56:59 - HikariPool-1 - Shutdown initiated...
+2025-01-30 14:57:00 - HikariPool-1 - Shutdown completed.
+2025-01-30 14:57:05 - Starting BankingApplication using Java 21.0.3 with PID 6472 (C:\Users\User\IdeaProjects\Banking\target\classes started by User in C:\Users\User\IdeaProjects\Banking)
+2025-01-30 14:57:05 - No active profile set, falling back to 1 default profile: "default"
+2025-01-30 14:57:07 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-30 14:57:07 - Finished Spring Data repository scanning in 94 ms. Found 2 JPA repository interfaces.
+2025-01-30 14:57:08 - Tomcat initialized with port 8080 (http)
+2025-01-30 14:57:08 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-30 14:57:08 - Starting service [Tomcat]
+2025-01-30 14:57:08 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-30 14:57:08 - Initializing Spring embedded WebApplicationContext
+2025-01-30 14:57:08 - Root WebApplicationContext: initialization completed in 2570 ms
+2025-01-30 14:57:08 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-01-30 14:57:08 - HHH000412: Hibernate ORM core version 6.6.4.Final
+2025-01-30 14:57:08 - HHH000026: Second-level cache disabled
+2025-01-30 14:57:09 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-01-30 14:57:09 - HikariPool-1 - Starting...
+2025-01-30 14:57:11 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@32b95de
+2025-01-30 14:57:11 - HikariPool-1 - Start completed.
+2025-01-30 14:57:11 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 16.6
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-01-30 14:57:13 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-01-30 14:57:13 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-01-30 14:57:14 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-01-30 14:57:15 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-30 14:57:15 - Tomcat started on port 8080 (http) with context path '/'
+2025-01-30 14:57:15 - Started BankingApplication in 10.037 seconds (process running for 11.049)
+2025-01-30 15:02:05 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-30 15:02:05 - Initializing Servlet 'dispatcherServlet'
+2025-01-30 15:02:05 - Completed initialization in 4 ms
